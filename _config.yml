@@ -4,9 +4,9 @@ title                    : "A sociological file"
 title_separator          : "-"
 name                     : "Martin Andersen"
 description              : "A collection of thoughts and reflections."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://martinadreasandersen.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : norseghost/norseghost.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -120,6 +120,7 @@ pagination:
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
+theme: "minimal-mistakes-jekyll"
 remote_theme                    : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
