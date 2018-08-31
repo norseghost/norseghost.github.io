@@ -110,13 +110,13 @@ sass:
 
 # Outputting
 permalink: /:title/
-#paginate: 5
-#paginate_path: /page:num/
+paginate: 5
+paginate_path: /page:num/
 
-pagination:
-  enabled: true
-  per_page: 5 # amount of posts to show
-  permalink: /page/:num/
+#pagination:
+#  enabled: true
+#  per_page: 5 # amount of posts to show
+#  permalink: /page/:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
