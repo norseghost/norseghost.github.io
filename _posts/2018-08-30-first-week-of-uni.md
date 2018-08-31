@@ -4,9 +4,10 @@ title: "First Week of University"
 tags: uni personal sociology
 ---
 
-So. Why not start a master's degree in educational sociology, six and-a-bit years
+So. **Why not** start a master's degree in educational sociology, six and-a-bit years
 after finishing a bachelor? Six years as a working stiff, with varied and, at times,
-exhausting challenges? 
+exhausting challenges?
+
 
 Because you need to keep your job while studying!
 
