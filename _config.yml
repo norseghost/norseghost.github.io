@@ -16,7 +16,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Martin Andersen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-picture.jpg"
   bio              : "Sociology student, with a background in work with adults with severe cognitive disabilities"
   location         : "Somewhere"
   email            : "martin.andreas.andersen@gmail.com"
