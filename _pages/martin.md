@@ -1,6 +1,6 @@
 ---
 title: "CV | Martin Andreas Andersen"
-permalink: /about/
+permalink: /martin/
 layout: single
 ---
 # Interests
