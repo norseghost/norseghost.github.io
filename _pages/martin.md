@@ -2,6 +2,7 @@
 title: "Martin Andreas Andersen"
 permalink: /martin/
 layout: single
+author_profile: true
 ---
 
 # Interests
