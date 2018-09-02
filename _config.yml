@@ -18,9 +18,9 @@ author:
   name             : "Martin Andersen"
   avatar           : "/assets/images/bio-picture.jpg"
   bio              : "Sociology student, with a background in work with adults with severe cognitive disabilities"
-  location         : "Somewhere"
-  email            : "martin.andreas.andersen@gmail.com"
-  uri              :
+  location         : "Skørping, DK"
+  email            : martin.andreas.andersen@gmail.com
+  uri              : /martin/
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
