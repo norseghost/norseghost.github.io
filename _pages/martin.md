@@ -19,14 +19,14 @@ My/the family boardgame collection is larger than most. Fans of [TableTop][tp] w
 Personal favorites include *Agricola* and *Nord Kapp*. I love the idea behind *Once upan a Time*, but haven't had it 
 hit the table in forever. The kids greatly enjoy *Smash Up!*, *King of Tokyo* and 
 *Munchkin*. I also have a modest collection of collaborative games, where all players are set against the game (designers).
-The white whale is currently *Forbidden Desert*. We have yet been able to escape the desrt in our steampunk ship
-before losing a team-memeber to dehydration.
+The white whale is currently *Forbidden Desert*. We have yet to escape the desert in our steampunk ship
+before losing a team-member to dehydration.
 
 ## Stories
 
 I spent many hours growing up lost in the worlds of Tolkien, Pratchett and Lewis. My level of books consumed has
 fallen since, but I still greatly enjoy a riveting tale, as well as in-depth discussions of the stories told -
-be they movies, TV shows or books. The current golde age of long form television is a source of great joy for me.
+be they movies, TV shows or books. The current golden age of long form television is a source of great joy for me.
 
 # Education
 
