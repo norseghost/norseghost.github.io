@@ -12,3 +12,8 @@ with, which clothes to wear, when or which foodstuffs to eat. This comes as a
 consequence of not being equipped to manage their own lives (indeed, the prospect and 
 notion of agency is a recurring dilemma, both practically and ethically, but that will
 be a post for another time).[^agency]
+
+- explicit modes of power differential
+- tendency to ignore certaion forms of power
+- uses of (explicit) power that are considered beneficial not verbalized or discussed
+- risks lack of awareness, uncertainty of what is mandated to report on, what is not
