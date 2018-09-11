@@ -1,8 +1,6 @@
 ---
 title: "Martin Andreas Andersen"
 permalink: /martin/
-layout: single
-author_profile: true
 ---
 
 # Interests
@@ -18,7 +16,9 @@ I round out my training with the occasional run or kettlebell workout.
 My/the family boardgame collection is larger than most. Fans of [TableTop][tp] will recognize many of the games.
 Personal favorites include *Agricola* and *Nord Kapp*. I love the idea behind *Once upan a Time*, but haven't had it 
 hit the table in forever. The kids greatly enjoy *Smash Up!*, *King of Tokyo* and 
-*Munchkin*. I also have a modest collection of collaborative games, where all players are set against the game (designers).
+*Munchkin*. The cute art and easy gameplay of *Sushi Go!* is also a hit.
+
+I also have a modest collection of collaborative games, where all players are set against the game (designers).
 The white whale is currently *Forbidden Desert*. We have yet to escape the desert in our steampunk ship
 before losing a team-member to dehydration.
 

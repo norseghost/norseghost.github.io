@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "How we dress and social signaling"
 tags: clothes sociology
 ---
