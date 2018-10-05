@@ -11,7 +11,7 @@ This is a demographic where the professional responsibility is to constantly mak
 
 When a person is so completely dependent upon an other, it seems obvious that this 'other' has a great deal of influence and control over them. This can be (and hopefully mostly is) benign in nature, but (depening on level of disability) is also very often all-encompassing.
 
-This is laid out quite well by Stine Marie Hur, in which a Foucaltian perspective is employed, and the social worker is empowered to be a productive force in the life of the disadvantaged [(Hur 2015)^hurFrigorelsensMagt2015].
+This is laid out quite well by Stine Marie Hur, in which a Foucaltian perspective is employed, and the social worker is empowered to be a productive force in the life of the disadvantaged (Hur 2015)[^hurFrigorelsensMagt2015].
 
 To quote uncle Ben: "with great power comes great responsibility". While a tired adage, it is nonetheless true. A lack of awareness of the systematic and inherent power asymmetry in social work can lead to worker uncertainty at best, and a toxic and abusive culture at worst. The most glaring example of the latter in Danish memory is the Strandvænget case of 2007 (Kirkebæk 2017)[^kirkebaekStrandvaengetTiAr2017].
 

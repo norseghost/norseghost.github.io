@@ -167,6 +167,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -192,3 +196,10 @@ defaults:
       comments: # true
       share: false
       related: true
+  # _guides
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      author_profile: false
