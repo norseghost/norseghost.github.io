@@ -20,8 +20,8 @@ author:
   bio              : "Sociology student, with a background in work with adults with severe cognitive disabilities"
   location         : "Skørping, DK"
   email            : martin.andreas.andersen@gmail.com
-  uri              : /martin/
-  home             : # null (default), "absolute or relative url to link to author home"
+  uri              : 
+  home             : /martin/ # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -29,7 +29,7 @@ author:
   facebook         : draug3n
   foursquare       :
   github           : norseghost
-  gitlab           : grwatz
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        : martin.andreas.andersen
@@ -38,7 +38,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "norseghost" # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            : # "norseghost" # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :
