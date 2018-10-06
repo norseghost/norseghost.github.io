@@ -2,6 +2,9 @@
 title: A Nerd's Guide to writing Papers for Aarhus University
 tags: latex pandoc biblatex bibliography writing academia uni guide
 toc: true
+toc-sticky: true
+sidebar:
+  nav: "guides"
 ---
 *The following is just as much a cheat sheet for myself, if I should need to recreate my setup sometime.*
 
@@ -56,8 +59,8 @@ The individual papers `\input` this file after their respective `\documentclass`
 
 - I set 1 inch margins with the geometry package, as a personal preference.
 - I set the language to danish using babel, to ensure proper quoting and hyphenation.
-- Font encoding to T1 ##FIXME WHAT IS THIS FOR
-- UTF-8 input encoding, to use special characters natively
+- Font encoding to T1 to better handle special characters such as æ-ø-å.
+- UTF-8 input encoding
 - the csquotes package supplies typographically correct quotations instead of backticks and apostrophes.
 - The BibLaTeX package takes care of citations.
     - the biber backend is more powerful than standard biblatex
