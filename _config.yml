@@ -203,3 +203,5 @@ defaults:
     values:
       layout: single
       author_profile: false
+    sidebar:
+      nav: "guides"

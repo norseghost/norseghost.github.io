@@ -2,5 +2,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Guides"
+    url: /guides/
   - title: "Tags"
     url: /tags/
+
+guides:
+  - title: "A Nerd's Guide to Writing for AU"
+  - url: /guides/a-nerds-guide-to-writing-papers-for-au/
