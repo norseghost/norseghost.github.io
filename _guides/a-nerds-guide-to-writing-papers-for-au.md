@@ -83,7 +83,7 @@ Better Bibtex allows for a lot of tweaking, including possible cite-as-you-write
 
 # Output
 
-Congratulations! You have written (maybe following another guide, or, in my case, lots of beard-scratching and browsing the [TeX StackExchange]) something of hopeful academic value.
+Congratulations! You have written (maybe following another guide, or, in my case, lots of beard-scratching and browsing the [TeX StackExchange][texsx]) something of hopeful academic value.
 
 ## PDF
 
@@ -150,7 +150,7 @@ Copy the above into a text file, and save the filter somewhere sensible. Remembe
 
 The following pandoc command processes a .tex file, and outputs a .docx for you:
 
-~~~ shell
+~~~ bash
 pandoc --csl=apa-dan.csl \                  # path to APA .csl
  --bibliography=yourbibliography.bib \      # path to your bibliography
  -M lang:da \                               # set danish language
@@ -241,3 +241,4 @@ For more information on LaTeX Workshop toolchain setup, see [the documentation][
 [bbibtex]: https://retorque.re/zotero-better-bibtex/
 [biblatex]: https://ctan.org/pkg/biblatex?lang=en
 [bbinst]: https://retorque.re/zotero-better-bibtex/installation/
+[texsx]: https://tex.stackexchange.com/

@@ -7,7 +7,7 @@ sidebar:
 {% for guide in site.guides %}
   <h2>
     <a href="{{ guide.url }}">
-      {{ guide.name }}
+      {{ guide.title }}
     </a>
   </h2>
 {% endfor %}
