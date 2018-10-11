@@ -13,8 +13,8 @@ I round out my training with the occasional run or kettlebell workout.
 
 ## Boardgames
 
-My/the family boardgame collection is larger than most. Fans of [TableTop][tp] will recognize many of the games.
-Personal favorites include *Agricola* and *Nord Kapp*. I love the idea behind *Once upan a Time*, but haven't had it 
+My/the family boardgame collection is larger than most. Fans of [TableTop][tt] will recognize many of the games.
+Personal favorites include *Agricola* and *Nord Kapp*. I love the idea behind *Once Upon a Time*, but haven't had it 
 hit the table in forever. The kids greatly enjoy *Smash Up!*, *King of Tokyo* and 
 *Munchkin*. The cute art and easy gameplay of *Sushi Go!* is also a hit.
 
@@ -39,3 +39,4 @@ BA in Social Education, with a focus on people with severe cognitive disabilitie
 MA in Educational Sociology
 
 
+[tt]: https://geekandsundry.com/shows/tabletop/
