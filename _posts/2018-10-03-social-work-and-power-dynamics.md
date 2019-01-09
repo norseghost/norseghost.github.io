@@ -1,7 +1,6 @@
 ---
 title: "Social work and power dynamics"
-tags: social-work power coercion
-reflexivity ethics responsibility
+tags: social-work power coercion reflexivity ethics responsibility
 ---
 
 # The nature of power in social work
