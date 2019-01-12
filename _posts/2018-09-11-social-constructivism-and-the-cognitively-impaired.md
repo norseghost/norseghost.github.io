@@ -3,9 +3,9 @@ title: "Social constructivism and (working with) the cognitively impaired"
 tags: social-education social-constructivism ASF sociology narrative-analysis
 ---
 
-I was first intruduced to the concept of social constructivism while studying
+I was first introduced to the concept of social constructivism while studying
 to be a social educator. From what I recall of that lecture, most of it blew
-right over mhy head. What? This table only has the properties of a table because
+right over my head. What? This table only has the properties of a table because
 we collectively assign the concept 'table' these physical characteristics? Beg pardon?
 (In fact, this very example of constructivism taken to the extreme was given at a
 lecture today - somewhat derisively)
@@ -38,11 +38,12 @@ which modes of influence do these people have? [^agency]
 
 Even if this demographic does not participate in the construction of social realties
 on equal --- or even similar --- terms, I contend that social constructionism is a
-useful perspective to have for the professional social educator. An understanding
-of the others' worldview and past (social) interactions can be useful in developing
-more tailored and inclusive intervention strategies for example. The concept of
-'life histories' is one way this is put into practice, more or less systematically.
-By investigating the past, we get a level of insight into the present.
+useful perspective to have for the professional social educator. An
+understanding of the others' world-view and past (social) interactions can be
+useful in developing more tailored and inclusive intervention strategies for
+example. The concept of 'life histories' is one way this is put into practice,
+more or less systematically. By investigating the past, we get a level of
+insight into the present.
 
 ************
 
