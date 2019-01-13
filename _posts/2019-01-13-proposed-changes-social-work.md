@@ -1,5 +1,5 @@
 ---
-title: "Comments on the proposed changes to guidelines for working with the cognitively impaired in Denmark"
+title: "Comments on the proposed changes for working with the cognitively impaired in Denmark"
 tags: sociology power coercion normativity welfare
 ---
 
