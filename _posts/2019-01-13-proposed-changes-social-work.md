@@ -148,12 +148,11 @@ allowances are informative and supportive; on the other, there is the risk of
 losing professional justification and identity. Which probably is an idea for
 another post.
 
-[borne-ogsocialministerietBekendtgorelseAfLov2018]: 
+[borne-ogsocialministerietBekendtgorelseAfLov2018]: https://www.retsinformation.dk/Forms/r0710.aspx?id=197036
 
 [eftersyn]: https://socialministeriet.dk/media/19107/afrapportering-af-serviceeftersynet-af-magtanvendelsesreglerne.pdf
 
 [power]:https://socialministeriet.dk/media/19223/aftale-om-revision-af-reglerne-om-magtanvendelse-paa-handicapomraadet.pdf
 
-[forunderlige]:
 
-[døre]: 
+[døre]: ://www.lev.dk/nyheder/2018/februar/intens-diskussion-om-laaste-doereforunderlige]:
