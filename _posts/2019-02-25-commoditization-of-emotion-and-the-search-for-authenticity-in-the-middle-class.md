@@ -5,6 +5,8 @@ date: "2019-02-25 10:39:32 +0100"
 tags: socialization class feeling emotion
 ---
 
+
+
 As part of my course in socialization and everyday life, I’ve had Arlie
 Hochschild’s *Emotion Work, Feeling Rules, and Social
 Structure*[^Hochschild] assigned. As a near aside, close to the
