@@ -70,9 +70,7 @@ That smells of dissertation level stuff, after some amount of refinement
 (operationalization of terms could be a bear to tackle), but I found it
 interesting enough for a blog post at least.
 
-[^Hochschild]: Hochschild, A. R. (1979). Emotion Work, Feeling Rules, and
-  Social Structure. American Journal of Sociology, 85(3), 551–575.
-  https://doi.org/10.1086/227049
+[^Hochschild]: Hochschild, A. R. (1979). Emotion Work, Feeling Rules, and Social Structure. American Journal of Sociology, 85(3), 551–575.  https://doi.org/10.1086/227049
 
 [signalling]:{{ site.baseurl }}{% post_url 2018-09-02-how-we-dress-and-social-signaling %}
 
