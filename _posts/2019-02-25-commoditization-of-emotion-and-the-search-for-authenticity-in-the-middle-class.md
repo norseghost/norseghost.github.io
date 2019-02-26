@@ -72,8 +72,7 @@ interesting enough for a blog post at least.
   Social Structure. American Journal of Sociology, 85(3), 551–575.
   https://doi.org/10.1086/227049
 
-[signalling]:{{ site.baseurl }}{% post.url
-./2018-09-02-how-we-dress-and-social-signaling %}
+[signalling]:{{ site.baseurl }}{% post.url./2018-09-02-how-we-dress-and-social-signaling %}
 
 [jeans]: https://momotarojeans.net/collection/0306-V/index.html
 
