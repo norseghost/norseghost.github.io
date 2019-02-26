@@ -25,12 +25,7 @@ value in items with an (arguable) price premium re: function: (moderately)
 expensive jeans (1900kr), shoes (1300 kr), boots (3000 kr). All of these
 things have some ideal of ‘authenticity’ in common. They tell a story, a myth,
 of different times. Maybe not simpler, exactly. But more ordered and
-orderly, maybe? These are items for a civilized age, it seems.My sneakers
-have a classic tennis shoe silhouette, and are manufactured from ‘premium’
-materials in  Italy. My sneakers have a classic tennis shoe silhouette,
-and are manufactured from ‘premium’ materials in  Italy. My sneakers have
-a classic tennis shoe silhouette, and are manufactured from ‘premium’
-materials in  Italy. 
+orderly, maybe? These are items for a civilized age, it seems.
 
 My [jeans][jeans] are hand-sewn, from denim made on old looms (granted, in
 a contemporary slim-tapered cut). My [boots][boots] are handmade by a [dude in his
