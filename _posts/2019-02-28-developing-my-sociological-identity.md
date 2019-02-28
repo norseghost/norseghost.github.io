@@ -65,8 +65,7 @@ time, probably. Here’s hoping my proposal for machine learning as an
 elective next semester is accepted!
 
 
-[^other]: The first one might slot in nicely as one of 4 shorter essays in
-  my other course –  on education as an institution – this year.
+[^other]: The first one might slot in nicely as one of 4 shorter essays in my other course –  on education as an institution – this year.
 
 
 [^generalities]: These are, of course, very broad generalities.
