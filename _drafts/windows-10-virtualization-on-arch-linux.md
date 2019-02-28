@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "windows 10 virtualization on arch Linux"
 date: "2019-02-04 17:04:09 +0100"
 tags: ""
@@ -15,4 +14,8 @@ as possible.
 - enabling virtualization kernel modules
 - enabling passthrough modules
 - installing qemu/kvm
+- installing virt-manager (and network bridge toolchain)
+- installing virtio
+- installing OVMF; pointing libvirt to ovmf 
+- setting up GVT
 
