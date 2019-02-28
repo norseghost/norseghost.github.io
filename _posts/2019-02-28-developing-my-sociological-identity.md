@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "Developing my sociological identity"
 date: "2019-02-28 22:15:53 +0100"
-tags: ""
+tags: uni sociology microsociology
 ---
 
 The about page of this blog states:
