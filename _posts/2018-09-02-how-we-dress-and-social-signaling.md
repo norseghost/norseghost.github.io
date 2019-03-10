@@ -8,41 +8,41 @@ self-centered to say in public, clothing is a fascinating intersection
 of self-expression and necessity.
 
 Clothes are neccessary to cover our shame as well as to provide protection
-from the elements. Thus, no-one can escape wearing clothes. However, 
+from the elements. Thus, noone can escape wearing clothes. However, 
 clothes are also a canvas for personal and/or social expression.
 
-Clothing can signal mebership of subcultures - the tribes of modern adolesence.
-Lolita goth? Knee high socks, ruffled skirt, tight top. Punk? Ripped jeans, black DMs,
-piercings and/or a mohawk. Metalhead? Battlejacket, black converse, jeans. Hippie?
-Upcycled and homemade errythang, loose garments, long hair, shaving and underwear optional.
-Decidedly *not* counter-culture youth? Chinos, OCBD, and boat shoes.
+Clothing can signal membership of subcultures - the tribes of modern
+adolescence. Lolita goth? Knee high socks, ruffled skirt, tight top. Punk?
+Ripped jeans, black DMs, piercings and/or a mohawk. Metalhead? Battlejacket,
+black converse, jeans. Hippie? Upcycled and homemade errythang, loose garments,
+long hair, shaving and underwear optional. Decidedly *not* counter-culture
+youth? Chinos, OCBD, and boat shoes. This becomes useful shorthand when
+navigating the fraught social landscapes of the teenage years. If you see
+someone dressing similarly to yourself, there is a more than decent chance that
+you will have overlapping interests.
 
-This becomes useful shorthand when navigating the fraught social landscapes of the 
-teenage years. If you see someone dressing similarly to yourself, there is a more than
-decent chance that you will have overlapping interests.
-
-Clothing is also used as signifiers of social belonging and/or class. The mechanic is likely
-to dress differently from the salesperson, who similarly is likely to dress apart from 
-the manager, the lawyer, the doctor, etc.
-
-There is a whole other post to be written about the flattening of signifiers of social strata
-in modern times. The CEO is as likely as the designer as the workman to wear jeans, a t-shirt and a sweater - superficially, they are wearing the same items. The differences appear in the details. Cut, materials
-and accessories will be distinct, according to practical considerations, personal preferences and expextations of the peer group.
+Clothing is also used as signifiers of social belonging and/or class. The
+mechanic is likely to dress differently from the salesperson, who similarly is
+likely to dress apart from the manager, the lawyer, the doctor, etc. There is
+a whole other post to be written about the flattening of signifiers of social
+strata in modern times. The CEO is as likely as the designer as the workman to
+wear jeans, a t-shirt and a sweater - superficially, they are wearing the same
+items. The differences appear in the details. Cut, materials and accessories
+will be distinct, according to practical considerations, personal preferences
+and expextations of the peer group.
 
 The workman might wear
 
-- looser-fitting most things
-- greater chance of pre-distressed jeans
-- large logos on tee or sweater, often from the brand
-- a cotton(blend) sweatshirt or hoodie
+- loose-fitting most things
+- greater chance of pre-distressed jeans 
+- large logos on tee or sweater, often from the brand 
+- a cotton(blend) sweatshirt or hoodie 
 - running shoes, sneakers or otherwise practical shoes
 
 The designer I see wearing
 
-- slimmer, maybe even skinny jeans
-- ironic and/or creative prints
-- woolen sweater, or slim, plain hoodie
-- more fashion-forward sneakers, shoes or boots. 
+- slimmer, maybe even skinny jeans ironic and/or creative prints woolen
+- sweater, or slim, plain hoodie more fashion-forward sneakers, shoes or boots. 
 
 A CEO could wear
 
@@ -60,8 +60,9 @@ would be unthinkable. Put in a little effort, man!
 
 These social expectations also can apply more broadly to the breadth of a wardrobe. The workman might have flannels and cargo pants, but feel terribly self=conscious in a dress shirt (even when situationally appropriate); the designer probably owns both chinos and casual collared shirt; and the CEO most certainly has access to a nice-ish suit.
 
-Hell, even the rebellious youth referenced in the introductory paragraph gravitate towards eerily similar uniforms! Let us
-all be different, together, similarily...
+Hell, even the rebellious youth referenced in the introductory paragraph
+gravitate towards eerily similar uniforms! Let us all be different, together,
+similarly...
 
 These are, of course, gross generalizations. The worker might be just as fashion-forward as the designer, and the CEO
 might well say 'fuck it!', and wear a black turtleneck, jeans, and New Balance sneakers to anything. But I hope I have 
@@ -74,7 +75,7 @@ I am not immune to this phenomenon, of course.
     * thus nothing too delicate to wash
     * avoid fabrics that keep stains
 * I'm on my feet a lot, so comfortable shoes
-* I still remeber my 'rebellious' metalhead roots with fondness
+* I still remember my 'rebellious' metalhead roots with fondness
     * Black double-rider
     * MA1 bomber
     * Army boots

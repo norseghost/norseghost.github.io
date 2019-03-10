@@ -37,7 +37,7 @@ in Danish memory is the Strandvænget case of 2007 (Kirkebæk
 Taken far enough, this lack of professional reflexivity turns into management
 saying outright "We do not exercise power here"[^truestory]. Which is patently
 absurd, given the level of power and control exercised every day for a social
-worker to fulfill their responsibilities as care-giver. To be fair, what is
+worker to fulfill their responsibilities as caregiver. To be fair, what is
 *probably* intended in the above statement is no *explicit* power, such as
 physically restraining or forcefully relocating someone.
 

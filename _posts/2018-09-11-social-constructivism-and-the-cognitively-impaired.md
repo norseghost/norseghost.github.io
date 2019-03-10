@@ -15,7 +15,7 @@ sense in a social context - and it certainly is a useful paradigm in the explora
 of social worlds and social interactions. I believe that social constructivism
 can also offer a  useful perspective on working with the cognitively disabled.
 The applicability of a pluralistic view of (social) reality, with multiple,
-co-existing realities and social contexts, seems rather obvious when working
+coexisting realities and social contexts, seems rather obvious when working
 with individuals who perceive and/or process the outside world differently from
 the established consensus.
 
@@ -36,14 +36,15 @@ they participate, in the social constructs and discourses surrounding them? If
 social constructs arise out of and are maintained by discourse within and among groups,
 which modes of influence do these people have? [^agency]
 
-Even if this demographic does not participate in the construction of social realties
-on equal --- or even similar --- terms, I contend that social constructionism is a
-useful perspective to have for the professional social educator. An
-understanding of the others' world-view and past (social) interactions can be
-useful in developing more tailored and inclusive intervention strategies for
-example. The concept of 'life histories' is one way this is put into practice,
-more or less systematically. By investigating the past, we get a level of
-insight into the present.
+Even if this demographic does not participate in the construction of
+social realties on equal --- or even similar --- terms, I contend that
+social constructionism is a useful perspective to have for the
+professional social educator. An understanding of the others' world view
+and past (social) interactions can be useful in developing more tailored
+and inclusive intervention strategies for example. The concept of 'life
+histories' is one way this is put into practice, more or less
+systematically. By investigating the past, we get a level of insight into
+the present.
 
 ************
 
@@ -58,9 +59,9 @@ The basic thrust: We construct social realities through discourse, and our vocab
 used are informed by **and** simulteaneously construct our shared social realities (if I
 remember correctly 6-8 years removed).
 
-Hanses finds careful analysis of the narratives used in and around the workplace to be helpful
-in uncovering social constructs. A narrative is expected to conform to certain formal
-requirements:
+Hansen finds careful analysis of the narratives used in and around the
+workplace to be helpful in uncovering social constructs. A narrative is
+expected to conform to certain formal requirements:
 
 - there is a chronology, with a beginning, a middle and an end
 - there is a selection of data, where irrelevant material is deemphasized or cut
@@ -73,15 +74,36 @@ earlier, when Sam stepped in a puddle, and now has cold, wet feet? Our
 perspectives of Sam's possible motivations may be altered by where our
 narrative begins.
 
-There is also a risk that these constructed realities become self-fulfilling prophecies. For example: an adult with infantile autism consistently resists external demands, and responds violently and destructively when further pressured. One can imagine that a collective assumption and narrative arises: this young man is volatile, unstable, even dangerous. We must be wary and careful around him!
+There is also a risk that these constructed realities become
+self-fulfilling prophecies. For example: an adult with infantile autism
+consistently resists external demands, and responds violently and
+destructively when further pressured. One can imagine that a collective
+assumption and narrative arises: this young man is volatile, unstable,
+even dangerous. We must be wary and careful around him!
 
-Such an assumption can also limit the scope of considered interventions. If the young man is considered dangerous, we can't risk placing undue demands, in fear of the provoked response. A corollary narrative can (and will - I have examples of this happening) be developed: a collective agreement that the institution is 'ill-equipped' toward working with an individual this challenging. The root cause of the challenge is placed at the individual, thus absolving the (professionals) surrounding him from responsibility.
+Such an assumption can also limit the scope of considered interventions.
+If the young man is considered dangerous, we can't risk placing undue
+demands, in fear of the provoked response. A corollary narrative can (and
+will - I have examples of this happening) be developed: a collective
+agreement that the institution is 'ill-equipped' toward working with an
+individual this challenging. The root cause of the challenge is placed at
+the individual, thus absolving the (professionals) surrounding him from
+responsibility. An alternative narrative can be developed, however, in
+which the young man is viewed as a cabable actor in his own right, who is
+responding to the world as he constructs and views it. Thus, when met with
+incomprehensible and meaningless demands, he quite naturally rejects them,
+within his known repertoire of responses.
 
-An alternative narrative can be developed, however, in which the young man is viewed as a cabable actor in his own right, who is responding to the world as he constructs and views it. Thus, when met with incomprehensible and meaningless demands, he quite naturally rejects them, within his known repertoire of responses.
-
-This will lead to a different approach to intervention. Instead of the root cause of disruptive behavior being inherent to the individual, we can look to ourselves as professionals, and try and moderate and adapt our approach. This ties neatly into the Norwegian term for social education: "environmental therapy" (miljøterapi). By providing comprehensible (in both senses) and cohesive areas for the other to act within, we allow for greater opportunities for expression of agency, as is within their capabilities.
-
-[nardok]: https://www.saxo.com/dk/narrativ-dokumentation_janne-hedegaard-hansen_indbundet_9788750039600
-[jhh]: http://pure.au.dk/portal/da/persons/janne-hedegaard-hansen(2bfa9571-0cf3-43ad-b772-f801a5b614ce).html
+This will lead to a different approach to intervention. Instead of the
+root cause of disruptive behavior being inherent to the individual, we can
+look to ourselves as professionals, and try and moderate and adapt our
+approach. This ties neatly into the Norwegian term for social education:
+"environmental therapy" (miljøterapi). By providing comprehensible (in
+both senses) and cohesive areas for the other to act within, we allow for
+greater opportunities for expression of agency, as is within their
+capabilities. [nardok]:
+https://www.saxo.com/dk/narrativ-dokumentation_janne-hedegaard-hansen_indbundet_9788750039600
+[jhh]:
+http://pure.au.dk/portal/da/persons/janne-hedegaard-hansen(2bfa9571-0cf3-43ad-b772-f801a5b614ce).html
 
 [agency]: Of course, convincing arguments can be made that us 'normals' are just as controlled by externalities. We just like to pretend independent thought and agency.

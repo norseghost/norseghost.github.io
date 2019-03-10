@@ -28,12 +28,13 @@ things have some ideal of ‘authenticity’ in common. They tell a story, a myt
 of different times. Maybe not simpler, exactly. But more ordered and
 orderly, maybe? These are items for a civilized age, it seems.
 
-My [jeans][jeans] are hand-sewn, from denim made on old looms (granted, in
-a contemporary slim-tapered cut). My [boots][boots] are handmade by a [dude in his
-garage][ostmo], with design inspiration from traditional norwegian boots. My
-[*other* boots][solovair] have a storied British workboot heritage. I even had my Mom knit me
-a sweater inspired by traditional old Norwegian fisherman’s gear.
-Nevermind that I hardly know how to row, or clean a fish, even if my ancestors did.
+My [jeans][jeans] are hand sewn, from denim made on old looms (granted, in
+a contemporary slim tapered cut). My [boots][boots] are handmade by
+a [dude in his garage][ostmo], with design inspiration from traditional
+Norwegian boots. My [*other* boots][solovair] have a storied British
+workboot heritage. I even had my Mom knit me a sweater inspired by
+traditional old Norwegian fisherman’s gear. Nevermind that I hardly know
+how to row, or clean a fish, even if my ancestors did.
 
 This yearning for authenticity also extends to other areas of my life.
 I enjoy cooking (certain things) from the ground up (a bearnaise sauce is

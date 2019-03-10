@@ -134,19 +134,20 @@ All in all, this proposal seeks to address specific shortcomings as to the
 intersections of commonsense interventions as part of the responsibilities of
 care and the right of any citizen to agency, self-determination and independence
 of will. Secondarily, there is an attempt to dislodge certain ambiguities as
-well as bring the legislation more in line with the realities of social care. So
-far, so mostly good.
+well as bring the legislation more in line with the realities of social
+care. So far, so mostly good.
 
-Aside from my perceived need to reframe the act of reporting infringements of
-power, this document also encapsulates the semi-professional status of
-professional caregivers (*social educator* is the closest translation available
-from the Danish *socialpædagog*). Professional autonomy is constantly under
-political impingement, which point 4 is a very explicit example of. Social care
-can be described, at least partially, as navigating that 4-cell matrix of
-neglect/care vs independence/abuse of power. On one hand, clear expectations and
-allowances are informative and supportive; on the other, there is the risk of
-losing professional justification and identity. Which probably is an idea for
-another post.
+Aside from my perceived need to re-frame the act of reporting
+infringements of power, this document also encapsulates the
+semi-professional status of professional caregivers (*social educator* is
+the closest translation available from the Danish *socialpædagog*).
+Professional autonomy is constantly under political impingement, which
+point 4 is a very explicit example of. Social care can be described, at
+least partially, as navigating that 4-cell matrix of neglect/care vs
+independence/abuse of power. On one hand, clear expectations and
+allowances are informative and supportive; on the other, there is the risk
+of losing professional justification and identity. Which probably is an
+idea for another post.
 
 [borne-ogsocialministerietBekendtgorelseAfLov2018]: https://www.retsinformation.dk/Forms/r0710.aspx?id=197036
 
