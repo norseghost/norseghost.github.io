@@ -25,11 +25,10 @@ Clothing is also used as signifiers of social belonging and/or class. The
 mechanic is likely to dress differently from the salesperson, who similarly is
 likely to dress apart from the manager, the lawyer, the doctor, etc. There is
 a whole other post to be written about the flattening of signifiers of social
-strata in modern times. The CEO is as likely as the designer as the workman to
-wear jeans, a t-shirt and a sweater - superficially, they are wearing the same
+strata in modern times. The CEO is as likely as the designer as the workman to wear jeans, a t-shirt and a sweater - superficially, they are wearing the same
 items. The differences appear in the details. Cut, materials and accessories
 will be distinct, according to practical considerations, personal preferences
-and expextations of the peer group.
+and expectations of the peer group.
 
 The workman might wear
 

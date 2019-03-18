@@ -64,14 +64,14 @@ This outcome is also reflected in the 2017 audit.
 The proposal states two key shortcomings in the current rules:
 
 1. There must currently exist a preexisting decision at the municipal level allowing an
-   intrusion upon the right of self, thus preventing legally escorting a citizen
-   in from the cold in mere underwear, for example.
-
+   intrusion upon the right of self, thus preventing legally escorting
+   a citizen in from the cold in mere underwear, for example.
 2. The field of welfare technologies has outpaced the legislation. GPS
    tracking chips in citizens at risk of wandering, floor sensors in case
    of falls, et cetera. As it stands, these fall under a general ban of
    surveillance of common citizens, and are considered loosened somewhat
    for this demographic.
+
 
 There are 16(!) proposed amendments in total. Some reiterate the points outlined
 above (all are to support care, dignity and well-being and/or prevent harm), but some warrant further discussion:
