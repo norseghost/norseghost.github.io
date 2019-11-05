@@ -18,10 +18,9 @@ When will you sleep? You work nights, remember?
 It is more fruitful to look at why I felt **compelled** toward academia
 and further education. 
 
-A part of it is personal curiosity in certain fields (related
-to my experiences as a practitioner).
+A part of it is personal curiosity in certain fields (related to my experiences
+as a practitioner).
 
-> How can one realize empowerment and agency among people with severe cognitive disabilities?
 
 > why is the gender imbalance among social educators (heavily weighted towards women)
 > not reflected in positions of power - union representatives, upper and middle management
@@ -73,23 +72,23 @@ condition is taken for granted. Thus, as the pedagogical (goddamn that
 does **not** roll off the tongue, does it?) or educational discourse has
 been introduced to and incorporated other fields and discourses,
 Lieberkind maintains that a new, educa*tive* discourse emerges. In this
-educative discourse, humanity is by definition adaptable and in a process
-of development. There is potential within each of us, which could and
-should be improved upon. A new moral imperative arises: **Improve
-yourself!**
+educative discourse, humanity is by definition adaptable and in a process of
+development. There is potential within each of us, which could and should be
+improved upon. A new moral imperative arises: **Improve yourself!**
 
-Within this context we can see my decision
-to start grad school in less than optimal (and hopefully not
-insurmountable) circumstances in a new light. I live in a society that
-takes for granted that an individual will have a desire to grow, to
-progress, and that such progress and improvement has inherent value. Thus,
-I am validated in seeking higher education, motivated precisely in my lack
-of (percieved) options and possibilities for personal growth with my
+
+
+Within this context we can see my decision to start grad school in less than
+optimal (and hopefully not insurmountable) circumstances in a new light. I live
+in a society that takes for granted that an individual will have a desire to
+grow, to progress, and that such progress and improvement has inherent value.
+Thus, I am validated in seeking higher education, motivated precisely in my
+lack of (percieved) options and possibilities for personal growth with my
 current employer. The hope being, of course, that with a MA in educational
-sociology in two years' time (22 months has been bandied about a bit),
-I'll both have achieved some amount of personal growth, and also have even
-more opportunities for growth further on in my life.
+sociology in two years' time (22 months has been bandied about a bit), I'll
+both have achieved some amount of personal growth, and also have even more
+opportunities for growth further on in my life.
 
 So far, sociology ain't all that bad. 
 
-[jlieberkind]: http://edu.au.dk/forskning/forskningsenheder/kult/forskere/jonas-lieberkind/
+[jlieberkind]:
