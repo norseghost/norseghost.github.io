@@ -25,7 +25,7 @@ It has been quite interesting so far, about halfway in.
 But the real "whoa, dude!" moment came when I was asked to visualize my thoughts for the future on a dreamboard.
 
 ## It's okay to dream
-![My dreamboard as of october 2019](assets/images/2019-10_dreamboard.jpg){: .full}
+![My dreamboard as of october 2019](/assets/images/2019-10_dreamboard.jpg){: .full}
 
 Articulating — not to mention dwelling on — my hopes and dreams was quite enlightening.
 In my personal life I want some leisure time back.
