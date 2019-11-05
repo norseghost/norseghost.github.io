@@ -11,7 +11,7 @@ This cornucopia of interests would seem to be a Good Thing, right?
 But for someone who is graduating within 8 months, this can also look like vagueness.
 Being able to present some sort of clarity of purpose will help both me and a prospective employer decide if we are a match.
 
-Something resembling a professional identity.
+Something resembling a professional identity[^prof].
 
 ## Coaching
 
@@ -25,7 +25,7 @@ It has been quite interesting so far, about halfway in.
 But the real "whoa, dude!" moment came when I was asked to visualize my thoughts for the future on a dreamboard.
 
 ## It's okay to dream
-!(My dreamboard as of october 2019)[assets/images/2019-10_dreamboard.jpg]{: .full}
+![My dreamboard as of october 2019](assets/images/2019-10_dreamboard.jpg){: .full}
 
 Articulating — not to mention dwelling on — my hopes and dreams was quite enlightening.
 In my personal life I want some leisure time back.
@@ -71,3 +71,4 @@ The future is my canvas. I shall gather my colors.
 
 [sandbox]: https://www.stecherinsti.com/
 [stecher]: https://www.stecherinsti.com/
+[^prof]: As expressed by one of my classmates, this is somewhat of a daunting task to undertake on ones own. With my background as a social worker, the job description was also (mostly) **the** professional identity. Not so any more.
