@@ -13,7 +13,6 @@ Now, this is hardly an original thought. I've got 5 anecdotes off the top of my 
 My wife is a store assistent.
 I am in school; at least one more of my fellow students has the same motivation as I.
 I have a colleague who transitioned laterally, from a social advisory role to a more direct caregiving role[^1].
-My own father is becoming quite fed up with being handed the most challenging children at school.
 
 [Asterisk][asterisk], my faculty magazine, even [had the whole last issue][asterisk91] related to the concept of “professional care”.
 
@@ -46,12 +45,11 @@ And when all is said and done, to turn the other cheek; maybe even offer a hug a
 
 In short; as Hochschild[^Hochschild] described in 1979: Our emotional labor — the suppression of unwanted feeling; or the evocation of desired feeling — has been commoditized, as we trade it on the labor market.
 
-Whichever action we chose (in this context, even *In*action is an action), it is incumbent on us to reflect on and consider them.
+Whichever action we chose (in this context, even *in*action is an action), it is incumbent on us to reflect on and consider them.
 Could this be optimized? Could a similar conflict be avoided in the future by choosing different interventions?
 This sometimes extends to trying to gauge actions five, ten or fifteen minutes in advance, based on careful reading of the room.
 
-Turns out; this is somewhat exhausting. Add to this personnell shortages; reports to write; food to prepare; meetings to attend; and coffee to drink.
-All the coffee.
+Turns out; this is somewhat exhausting. Add to this personnell shortages; reports to write; food to prepare; meetings to attend; and coffee to drink[^7].
 
 ## And yet we persist
 So why keep it up?
@@ -62,7 +60,7 @@ Others burn out.
 Some change careers; some change workplaces; some scars of the soul never heal[^3].
 
 But some stick it out.
-The reasons range, I presume, from the practical (this is the job I've got, and money is nice, i guess) to the ideological (the premise and promise of the welfare state demands that we step into the breach!), which seems like a plausible continuum[^4}.
+The reasons range, I presume, from the practical (this is the job I've got, and money is nice, i guess) to the ideological (the premise and promise of the welfare state demands that we step into the breach!), which seems like a plausible continuum[^4].
 Motivations may well be more mundane, like a welcoming smile, or a heartfelt welcome.
 Or a feeling that the sword's edge was successfully balanced, with no one slipping and falling today.
 
@@ -74,6 +72,7 @@ A job well done, with a support network to back it up, both professionally and p
 In particular, giving room for self care, which [is explicitly brought up][self-care] in the aforementioned issue of Asterisk.
 I routinely politely ignored my colleagues at break time — not because I didn't like them; I was simply peopled out, and needed to stare at my phone for 30 minutes.
 
+[^7]: Some days, there is not enough coffee.
 [self-care]: http://edu.au.dk/aktuelt/asterisk/vis-artikel/artikel/har-du-maerket-dig-selv-i-dag/
 [^6]: Even to the point of arguing that the wages be lower.
 [^Hochschild]: Hochschild, A. R. (1979). Emotion Work, Feeling Rules, and Social Structure. American Journal of Sociology, 85(3), 551–575.  https://doi.org/10.1086/227049
