@@ -1,5 +1,5 @@
 ---
-title: "The Toll of Emotinal Labor"
+title: "The Toll of Emotional Labor"
 tags: sociology, personal, "social work", "emotional labor", "special needs"
 ---
 
