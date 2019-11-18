@@ -1,7 +1,7 @@
 ---
 title: "The Toll of Emotion Work"
-tags: sociology personal "social work" "special needs" "dis/ability"
-___
+tags: [sociology, personal, social work, emotional labor, special needs]
+---
 
 I've been doing “emotion work” most of my adult life; a lot of it in assisting the (very) differently abled.
 Now, with my transition out from direct emotion work approaching rapidly (I'll have my last scheduled classes next week), I got to thinking.
