@@ -83,5 +83,5 @@ I routinely politely ignored my colleagues at break time — not because I didn'
 [asterisk]: http://edu.au.dk/aktuelt/asterisk/magasinetasteriskarkiv/
 [asterisk91]: http://www.e-pages.dk/aarhusuniversitet/2150/html5/
 [^2]: Yes, this implies an uneven power dynamic in the relationship. [See my previous post][power] for my thoughts on this issue.
-[power]: {% post_url 2018-10-03-social-work-and-power-dynamics.md %}
+[power]: {{ site.baseurl }}{% post_url 2018-10-03-social-work-and-power-dynamics.md %}
 [^1]: In Denmark, there is a distinction between a *socialrådgiver*; who typically is affiliated with social offices, and *(social)pædagoger*, who chracteristically work in street programs or assisted living/work programs. The connotations of the English term *scial worker* maps somewhat imprecisely to both professions, depending on context.
