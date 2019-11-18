@@ -1,6 +1,6 @@
 ---
 title: "The Toll of Emotion Work"
-tags: [sociology, personal, social work, emotional labor, special needs]
+tags: sociology, personal, "social work", "emotional labor", "special needs"
 ---
 
 I've been doing “emotion work” most of my adult life; a lot of it in assisting the (very) differently abled.
@@ -12,7 +12,7 @@ This line of work is tough shit, dude.
 Now, this is hardly an original thought. I've got 5 anecdotes off the top of my head of people transitioning out of caregiving jobs.
 My wife is a store assistent.
 I am in school; at least one more of my fellow students has the same motivation as I.
-I have a colleague who transitioned laterally, from a social advisory role to a more direct care-giving role[^1].
+I have a colleague who transitioned laterally, from a social advisory role to a more direct caregiving role[^1].
 My own father is becoming quite fed up with being handed the most challenging children at school.
 
 [Asterisk][asterisk], my faculty magazine, even [had the whole last issue][asterisk91] related to the concept of “professional care”.
@@ -20,13 +20,15 @@ My own father is becoming quite fed up with being handed the most challenging ch
 It became particularity clear a couple of days ago, as I was talking to an old acquaintance who shares my line of work.
 Or, at least he did.
 He (like I did over the winter of '15/'16) had had a stress related breakdown; and had changed fields completely.
-When the conversation turned to me working nights, he commented that he had done somilar things in his career.
+When the conversation turned to me working nights, he commented that he had done similar things in his career.
 A night shift, physical toll notwithstanding, is a way to let down your guard as it were.
+
 Lower those shoulders.
+
 Have a little break from the grind.
 
 ### A tour of the salt mines
-The kind of emotion work we were discussing can be quite grueling at times.
+The kind of emotion work we are discussing can be quite grueling at times.
 
 We work with and assist the most vulnerable and fragile of citizens.
 We act as a filter and a bastion against the outside world - a world that can be quite overwhelming for even the most staunch stoic.
@@ -42,7 +44,7 @@ These, and many more possibilities for action, may be equally appropriate.
 Yet we expect of ourselves, both personally and collectively, to be able to let this, too, to pass.
 And when all is said and done, to turn the other cheek; maybe even offer a hug and comforting words.
 
-In short; as Hochshild[^Hochschild] described in 1979: Our emotional labor — the suppression of unwanted feeling; or the evocation of desired feeling — has been commoditized, as we trade it on the labor market.
+In short; as Hochschild[^Hochschild] described in 1979: Our emotional labor — the suppression of unwanted feeling; or the evocation of desired feeling — has been commoditized, as we trade it on the labor market.
 
 Whichever action we chose (in this context, even *In*action is an action), it is incumbent on us to reflect on and consider them.
 Could this be optimized? Could a similar conflict be avoided in the future by choosing different interventions?
@@ -62,7 +64,7 @@ Some change careers; some change workplaces; some scars of the soul never heal[^
 But some stick it out.
 The reasons range, I presume, from the practical (this is the job I've got, and money is nice, i guess) to the ideological (the premise and promise of the welfare state demands that we step into the breach!), which seems like a plausible continuum[^4}.
 Motivations may well be more mundane, like a welcoming smile, or a heartfelt welcome.
-Or a feeling that the sword's edge was successfully balanced, with no-one slipping and falling today.
+Or a feeling that the sword's edge was successfully balanced, with no one slipping and falling today.
 
 There are some who posit that work such as this should be rewarding in it's own right[^6].
 To plant a seed and let it grow, as it were.
