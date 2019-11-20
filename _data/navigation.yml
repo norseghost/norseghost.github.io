@@ -4,8 +4,14 @@ main:
     url: /about/
   - title: "Guides"
     url: /guides/
+  - title: "Projects"
+    url: /projects/
   - title: "Tags"
     url: /tags/
+
+projects:
+  - title: "Aarhus University"
+    url: /projects/au/
 
 guides:
   - title: "A Nerd's Guide to Writing for AU"
