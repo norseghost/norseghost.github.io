@@ -21,7 +21,7 @@ I touch on:
 ## Exam paper in Socialization and Everyday Life
 
 I took a look at positions concerning masculinity in the days immediately after Gillette launched the `#thebestmencanbe` ad campaign in January 2019.
-I scraped Instagram for hashtags surrounding this topc, and performed naive frequency analysis in R to discern topic clusters.
+I scraped Instagram for hashtags surrounding this topic, and performed naive frequency analysis in R to discern topic clusters.
 Based on these clusters, I analyzed the positioning and performative aspects with a basis in Goffman's theater metaphor, as well as borrowing positioning theory from social psychology.
 
-[Download PDF](/assets/pdf/sh-eksamen.pdf)
+[Download PDF](/assets/pdf/sh-eksamen.pdf) | [View data and code on Github](https://github.com/norseghost/sh-eksamen)
