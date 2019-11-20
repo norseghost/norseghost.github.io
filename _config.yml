@@ -111,8 +111,8 @@ sass:
 
 # Outputting
 permalink: /:title/
-#paginate: 5
-#paginate_path: /page:num/
+paginate: 5
+paginate_path: /page:num/
 
 pagination:
   enabled: true
