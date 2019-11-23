@@ -1,0 +1,50 @@
+---
+# Personal details
+name: Martin Andreas Andersen
+address:
+- Enggården 35 
+- 9520 Skørping
+- Danmark
+phone: "+45 52 39 85 86"
+email: martin.andreas.andersen@gmail.com
+# Insert URLs without http://
+urls:
+- martinandreasandersen.com
+- github.com/norseghost
+
+# Sections
+
+intro: "I search for meaning and signification. How is an action --- wether performed by an individual or a collective --- a signifier of meaning, situated in it's particular context? I seek answers to this question, and am more than happy to do so computationally"
+
+skills:
+- Qualitative and quantitative research design.
+- Social interactions, and their signifiers of meaning.
+- Computer-assisted social research, in particular Natural Language Processing og Machine Learning.
+
+experience:
+- years: 2012--ongoing
+  employer: Skovbo, Sødisbakke
+  job: Social Worker
+  city: Mariager
+  note: I work in an assisted living facility for adults with autism spectrum disorders and severe mental impairment.
+
+education:
+- year: 2020
+  subject: Educational Sociology
+  degree: Master of Arts
+  institute: Århus University
+  city: Århus
+  note: Had a critical look at the state of Danish dis/ability policies. In addition, i explored computational sociology, and \texttt{R} and the \texttt{tidyverse}.
+- year: 2012
+  subject: Social Education
+  degree: Bachelor of Arts
+  institute: University College Nordjylland
+  city: Aalborg
+  note: Specialized in citizens with disability, with a particular focus on the role of the practitioner.
+
+# Settings
+mainfont: Apple Garamond
+fontsize: 10pt
+lang: da-DK
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
