@@ -20,10 +20,9 @@ related: false
 {% endif %}
 {% if cv.experience %}
 | **Experience**
-{% for exp in cv.experience %}| {{ exp.years }} | **{{ exp.employer }}**<br />{{ exp.job }}<br />{{ exp.city }} | {{ exp.note }} |{% endfor %}
-{% endif %}
-{% if cv.education %}
-| **Education**
-{% for edu in cv.education %}| {{ edu.year }} | **{{ edu.subject }}**,<br />*{{ edu.degree }}*,<br />{{ edu.institute }},<br />{{ edu.city }} | {{ edu.note }}{% endfor %}
+{% for exp in cv.experience %}| {{ exp.years }} | **{{ exp.employer }}**<br />{{ exp.job }}<br />{{ exp.city }} | {{ exp.note }} |
+{% endfor %}{% endif %}{% if cv.education %}| **Education**
+{% for edu in cv.education %}| {{ edu.year }} | **{{ edu.subject }}**,<br />*{{ edu.degree }}*,<br />{{ edu.institute }},<br />{{ edu.city }} | {{ edu.note }}
+{% endfor %}
 {% endif %}
 
