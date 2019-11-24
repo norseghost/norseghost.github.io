@@ -1,8 +1,9 @@
 ---
 title: Curriculum Vitae
+permalink: /cv-en/
 lang: en
 ---
-
+##  {{ page.title }}
 {% assign cv = site.data.cv_en %}
 
 {% if cv.intro %}
