@@ -16,7 +16,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 # Site Author
 author:
-  name             : "Martin Andersen"
+  name             : "Martin Andreas Andersen"
   avatar           : "/assets/images/bio-picture.jpg"
   bio              : "Sociology student, with a background in work with adults with severe cognitive disabilities"
   location         : "Skørping, DK"
