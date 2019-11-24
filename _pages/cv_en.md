@@ -22,7 +22,7 @@ related: false
 {% if cv.experience %}
 ## Experience
 {% for exp in cv.experience %}
-| {{ exp.year }} | **{{ exp.employer }}**<br />{{ exp.job }}<br />{{ exp.city }} | {{ exp.note }} |
+| {{ exp.years }} | **{{ exp.employer }}**<br />{{ exp.job }}<br />{{ exp.city }} | {{ exp.note }} |
 
 {% endfor %}
 {% endif %}
