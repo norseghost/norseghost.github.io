@@ -2,8 +2,9 @@
 title: Curriculum Vitae
 permalink: /cv-en/
 lang: en
+read_time: false
+related: false
 ---
-##  {{ page.title }}
 {% assign cv = site.data.cv_en %}
 
 {% if cv.intro %}
@@ -15,13 +16,13 @@ lang: en
 {% if cv.skills %}
 ## Areas of Interest
 {% for skill in cv.skills %}
-- {{ cv.skill }}
+- {{ skill }}
 {% endfor %}
 {% endif %}
 {% if cv.experience %}
 ## Experience
 {% for exp in cv.experience %}
-| {{ exp.year }} | **{{ exp.employer }}**<br />{{ exp.job }}<br />{{ exp.city }} | exp.note |
+| {{ exp.year }} | **{{ exp.employer }}**<br />{{ exp.job }}<br />{{ exp.city }} | {{ exp.note }} |
 
 {% endfor %}
 {% endif %}
