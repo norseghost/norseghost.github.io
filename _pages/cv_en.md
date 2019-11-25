@@ -24,3 +24,4 @@ related: false
 {% endfor %}
 {% endif %}
 
+[Download PDF](/assets/pdf/cv_en.pdf)
