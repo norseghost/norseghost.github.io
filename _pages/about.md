@@ -6,7 +6,7 @@ author_profile: true
 read_time: false
 ---
 
-In *“On Intellectual Craftmanship”*, C. wright Mills contends the work of any
+In *“On Intellectual Craftmanship”*, C. Wright Mills contends the work of any
 self-respecting social scientist demands they keep a file or journal, detailing
 things of interest, both professionally and personally.
 
