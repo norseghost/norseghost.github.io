@@ -1,17 +1,4 @@
 ---
-# Personal details
-name: Martin Andreas Andersen
-address:
-- Enggården 35 
-- 9520 Skørping
-- Danmark
-phone: "+45 52 39 85 86"
-email: martin.andreas.andersen@gmail.com
-# Insert URLs without http://
-urls:
-- martinandreasandersen.com
-- github.com/norseghost
-
 # Sections
 title_skills: "Interesseområder"
 title_experience: "Arbejdserfaring"
