@@ -103,7 +103,7 @@ $endif$
 \vfill
 
 $if(skills)$
-\subsection*{$title.skills$}
+\subsection*{$title_skills$}
 \begin{itemize}
     $for(skills)$
       \item $skills$
@@ -114,7 +114,7 @@ $endif$
 \vfill
 
 
-\section*{$title.skills$}
+\section*{$title_experience$}
 \noindent
 $for(experience)$
 \begin{multicols}{2}
@@ -132,7 +132,7 @@ $endfor$
 \vfill
 
 $if(education)$
-\section*{$title.education$}
+\section*{$title_education$}
 \noindent
 $for(education)$
 \begin{multicols}{2}
@@ -150,7 +150,7 @@ $endif$
 \vfill
 
 $if(languages)$
-\section*{$title.languages$}
+\section*{$title_languages$}
 $for(languages)$
 \emph{$languages.language$} ($languages.proficiency$)\\
 $endfor$
