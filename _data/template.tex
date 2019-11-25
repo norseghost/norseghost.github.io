@@ -102,8 +102,8 @@ $endif$
 
 \vfill
 
-\subsection*{Interesseområder}
 $if(skills)$
+\subsection*{$title.skills$}
 \begin{itemize}
     $for(skills)$
       \item $skills$
@@ -114,7 +114,7 @@ $endif$
 \vfill
 
 
-\section*{Arbejdserfaring}
+\section*{$title.skills$}
 \noindent
 $for(experience)$
 \begin{multicols}{2}
@@ -132,7 +132,7 @@ $endfor$
 \vfill
 
 $if(education)$
-\section*{Uddannelse}
+\section*{$title.education$}
 \noindent
 $for(education)$
 \begin{multicols}{2}
@@ -150,7 +150,7 @@ $endif$
 \vfill
 
 $if(languages)$
-\section*{Sprog}
+\section*{$title.languages$}
 $for(languages)$
 \emph{$languages.language$} ($languages.proficiency$)\\
 $endfor$
