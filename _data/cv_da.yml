@@ -1,0 +1,54 @@
+---
+# Personal details
+name: Martin Andreas Andersen
+address:
+- Enggården 35 
+- 9520 Skørping
+- Danmark
+phone: "+45 52 39 85 86"
+email: martin.andreas.andersen@gmail.com
+# Insert URLs without http://
+urls:
+- martinandreasandersen.com
+- github.com/norseghost
+
+# Sections
+title_skills: "Interesseområder"
+title_experience: "Arbejdserfaring"
+title_education: "Uddannelse"
+title_languages: "Sprog"
+
+intro: "Jeg ser efter sammenhænge og meningsdannelser. Hvordan er en handling - hvad end den er individuel eller kollektiv - meningsbærende, situeret i sin kontekst? Dette søger jeg besvaret, gerne ved hjælp af teknologien."
+
+skills:
+- Kvalitative og kvantitative undersøgelser.
+- Sociale interaktioner, og deres meningsdannelser.
+- Computer-assisterede undersøgelser, herunder Natural Language Processing og Machine Learning.
+
+experience:
+- years: 2012--d.d.
+  employer: Skovbo, Sødisbakke
+  job: Pædagog
+  city: Mariager
+  note: Arbejder med voksne mennesker med autismespektrumforstyrrelser og lignende.
+
+education:
+- year: 2020
+  subject: Pædagogisk Sociologi
+  degree: Kandidat
+  institute: Århus Universitet
+  city: Århus
+  note: Arbejdede især med et kritisk blik på det specialiserede voksenområde. Udforskede den algoritmiske sociologi, og udviklede kendskab til R og tidyverse-tilgangen.
+- year: 2012
+  subject: Pædagog
+  degree: Professionsbachelor
+  institute: University College Nordjylland
+  city: Aalborg
+  note: Specialisering i funktionsnedsættelser, med særligt fokus på pædagogens rolle.
+
+# Settings
+mainfont: Apple Garamond
+fontsize: 10pt
+lang: da-DK
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---

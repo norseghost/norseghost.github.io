@@ -26,26 +26,16 @@ author:
   home             : /martin/ # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
-  dribbble         :
-  flickr           :
   facebook         : draug3n
-  foursquare       :
   github           : norseghost
   gitlab           : 
-  google_plus      :
   keybase          :
   instagram        : martin.andreas.andersen
-  lastfm           :
   linkedin         : martin-andreas-andersen-b70122179/
-  soundcloud       :
   stackoverflow    : "3973557/martin-andersen"
-  # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "norseghost" # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            :
   tumblr           :
   twitter          : "norseghost"
-  vine             :
-  weibo            :
-  xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links:
     label: "CV (English)"
