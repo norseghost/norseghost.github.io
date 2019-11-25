@@ -18,9 +18,9 @@ atom_feed:
 # Site Author
 author:
   address:
-  - "Enggården 35"
-  - "9520 Skørping"
-  - "Danmark
+    - Enggården 35 
+    - 9520 Skørping
+    - Danmark
   name             : "Martin Andreas Andersen"
   avatar           : "/assets/images/bio-picture.jpg"
   bio              : "Sociology student, with a background in work with adults with severe cognitive disabilities"
