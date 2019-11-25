@@ -14,13 +14,12 @@ related: false
 {% endif %}
 
 {% if cv.skills %}
-  ## {{ title.skills }}
+## {{ cv.title.skills }}
 {% for skill in cv.skills %}- {{ skill }}
 {% endfor %}{% endif %}
-{% if cv.experience %}| **{{ title.experience }}**
+{% if cv.experience %}| **{{ cv.title.experience }}**
 {% for exp in cv.experience %}| {{ exp.years }} | **{{ exp.employer }}**<br />{{ exp.job }}<br />{{ exp.city }} | {{ exp.note }} |
-{% endfor %}{% endif %}{% if cv.education %}| **{{ title.education }}
-  **
+{% endfor %}{% endif %}{% if cv.education %}| **{{ cv.title.education }}**
 {% for edu in cv.education %}| {{ edu.year }} | **{{ edu.subject }}**,<br />*{{ edu.degree }}*,<br />{{ edu.institute }},<br />{{ edu.city }} | {{ edu.note }}
 {% endfor %}
 {% endif %}
