@@ -17,11 +17,16 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 # Site Author
 author:
+  address:
+  - "Enggården 35"
+  - "9520 Skørping"
+  - "Danmark
   name             : "Martin Andreas Andersen"
   avatar           : "/assets/images/bio-picture.jpg"
   bio              : "Sociology student, with a background in work with adults with severe cognitive disabilities"
   location         : "Skørping, DK"
   email            : martin.andreas.andersen@gmail.com
+  phone: "+45 52 39 85 86"
   uri              : 
   home             : /martin/ # null (default), "absolute or relative url to link to author home"
   bitbucket        :
