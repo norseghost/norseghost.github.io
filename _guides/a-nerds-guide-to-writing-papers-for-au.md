@@ -5,6 +5,7 @@ toc: true
 toc-sticky: true
 sidebar:
   nav: "guides"
+read_time: true
 ---
 *The following is just as much a cheat sheet for myself, if I should need to recreate my setup sometime.*
 

@@ -2,6 +2,7 @@
 title: "Guides and tutorials"
 permalink: /guides/
 collection: guides
+read_time: false
 sidebar:
     nav: "guides"
 ---
