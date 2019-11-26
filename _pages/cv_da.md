@@ -7,4 +7,4 @@ related: false
 ---
 {% assign cv = site.data.cv_da %}
 {% include cv.md %}
-[Download PDF](/assets/pdf/cv_da.pdf) | [View in english](/cv-en/) 
+[Download PDF](/assets/pdf/cv_da.pdf) | [View in English](/cv-en/)

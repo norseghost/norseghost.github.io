@@ -19,7 +19,12 @@ Since the fall of 2018 I've begun a master's degree in the sociology of educatio
 
 I am also interested in computational sociology, and the additional insight and grunt processing that can be performed by computers.
 
-[A complete CV can be found here](/cv-en/)
+For the interested, I have a [selection of writing](/projects/) done during my studies available.
+Please excuse any methodological or theoretical naiveté.
+
+[A complete CV can be found here](/cv-en/).
+
+[Mit CV er i dansk udgave her](/cv-da/).
 
 [ucn]: https://www.ucn.dk/uddannelser/p%C3%A6dagog
 [skovbo]: http://www.sodisbakke.rn.dk/fagprofessionelle/doegntilbud/skovbo
