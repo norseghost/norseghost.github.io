@@ -34,8 +34,8 @@ education:
   note: Specialized in citizens with disability, with a particular focus on the role of the practitioner.
 
 # Settings
-mainfont: Apple Garamond
+mainfont: Libre Baskerville
 fontsize: 10pt
-lang: da-DK
+lang: English
 geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
 ---
