@@ -118,8 +118,7 @@ paginate_path: /page:num/
 #   enabled: true
 #   per_page: 5 # amount of posts to show
 #   permalink: /page/:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: Europe/Copenhagen
 
 # theme: "minimal-mistakes-jekyll"
 remote_theme                    : "mmistakes/minimal-mistakes"
