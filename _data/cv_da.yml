@@ -33,9 +33,4 @@ education:
   city: Aalborg
   note: Specialisering i funktionsnedsættelser, med særligt fokus på pædagogens rolle.
 
-# Settings
-mainfont: Apple Garamond
-fontsize: 10pt
-lang: da-DK
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
 ---

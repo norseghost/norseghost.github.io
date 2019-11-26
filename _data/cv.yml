@@ -1,0 +1,7 @@
+---
+# Settings
+mainfont: DejaVu Sans
+fontsize: 10pt
+lang: English
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
