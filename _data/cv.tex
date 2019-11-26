@@ -149,11 +149,15 @@ $endfor$
 
 \vfill
 
-$if(languages)$
-\section*{$title_languages$}
-$for(languages)$
-\emph{$languages.language$} ($languages.proficiency$)\\
+$if(other)$
+\begin{multicols}{3}
+\section*{$title_other$}
+$for(other)$
+\emph{$other.topic$}
+$other.info$
+\columnbreak
 $endfor$
+\end{multicols}
 $endif$
 
 \end{document}

@@ -5,11 +5,11 @@ title_experience: "Experience"
 title_education: "Education"
 title_languages: "Languages"
 
-intro: "I search for meaning and signification. How is an action --- wether performed by an individual or a collective --- a signifier of meaning, situated in it's particular context? I seek answers to this question, and am more than happy to do so computationally"
+intro: "My career until now has been in the frontlines of the welfare state. I now wish to move my "
 
 skills:
-- Qualitative and quantitative research design.
-- Social interactions, and their signifiers of meaning.
+- Qualitative and quantitative research design, particularly document analysis and interviews.
+- Social interactions, and their signifiers of meaning, both online and offline.
 - Computer-assisted social research, in particular Natural Language Processing and Machine Learning.
 
 experience:
@@ -17,20 +17,34 @@ experience:
   employer: Skovbo, Sødisbakke
   job: Social Worker
   city: Mariager
-  note: I work in an assisted living facility for adults with autism spectrum disorders and severe mental impairment.
-
+  note: I work in an assisted living facility for adults with autism spectrum disorders and severe mental impairment. I have been an union representative, been part of citizen teams, and collated data from our journalling systems. Since June 2017 I have been working the night shift.
+- years: 2003-2012
+  job: On-call substitute
+  city: Aalborg, Lillesand, and others
+  employer: Various
+  note: I have worked as untrained help among the disabled, both as a Big Brother as well as on-call substitute. I have also been on-call untrained help in geriatric care.
+  
 education:
 - year: 2020
   subject: Educational Sociology
-  degree: Master of Arts
+  degree: Master of Arts (in progress)
   institute: Århus University
   city: Århus
-  note: Had a critical look at the state of Danish dis/ability policies. In addition, i explored computational sociology, and R and the tidyverse.
+  note: Had a critical look at the state of Danish dis/ability policies, for instance the consequences of a documented existence and the justifications for a particular methodological approach. In addition, i explored computational sociology through an analysis of Instagram posts, in which I became aquainted with R and the tidyverse.
 - year: 2012
   subject: Social Education
   degree: Bachelor of Arts
   institute: University College Nordjylland
   city: Aalborg
-  note: Specialized in citizens with disability, with a particular focus on the role of the practitioner.
+  note: Specialized in citizens with disability, with a particular focus on the role of the practitioner. I am particularily pleased with my work on the neccessity of action for the practitioner. People-work requires action - even inaction is an action. This, in turn, places great demands upon the practitioner's self-reflexivity, both as an episode unfolds as well as afterward.
+
+other:
+- topic: Civil Status
+  info: Married, with 3 children ages 6 through 12
+- topic: Languages
+  info: English, Danish, Norwegian, R, python
+- topic: Interests
+  info: Tae Kwon Do (1st level black belt), cooking, role playing games
+
 
 ---
