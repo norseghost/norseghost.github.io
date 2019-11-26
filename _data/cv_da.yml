@@ -18,7 +18,7 @@ experience:
   job: Pædagog
   city: Mariager
   note: Arbejder med voksne mennesker med autismespektrumforstyrrelser og lignende. Jeg var fungerende TR i 9 måneder, og har ivaretaget kontaktpædagog-opgaver, samt lavet dataudtræk fra vores journalsystem. Siden juni 2017 har jeg arbejdet som vågen nattevagt.
-- years: 2003-2012
+- year: 2003-2012
   job: Omsorgsmedarbejder og tilkaldevikar
   city: Aalborg, Lillesand, med videre
   employer: Diverse
@@ -27,7 +27,7 @@ experience:
 education:
 - year: 2020
   subject: Pædagogisk Sociologi
-  degree: Kandidat
+  degree: Kandidat (igangværende)
   institute: Århus Universitet
   city: Århus
   note: Jeg arbejder især med et kritisk blik på det specialiserede voksenområde, blandt andet dokumentationens konsekvenser og berettigelsen af en pædagogisk referenceramme. Jeg udforskede den algoritmiske sociologi til analyser af Instagram, og udviklede herigennem kendskab til R og tidyverse-tilgangen.

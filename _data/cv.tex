@@ -118,8 +118,10 @@ $if(education)$
 \noindent
 $for(education)$
 \begin{multicols}{2}
-\note{$education.year$}\textbf{$education.subject$}$if(education.degree)$, $education.degree$$endif$\\
-\emph{$education.institute$}$if(education.city)$, $education.city$$endif$\\[.2cm]
+\note{$education.year$}\textbf{$education.subject$}\\
+$if(education.degree)$, $education.degree$$endif$\\
+\emph{$education.institute$}\\
+$if(education.city)$, $education.city$$endif$\\[.2cm]
 $if(education.note)$
 \vfill
 \columnbreak
@@ -154,7 +156,6 @@ $if(other)$
 $for(other)$
 \emph{$other.topic$}
 $other.info$
-\columnbreak
 $endfor$
 $endif$
 
