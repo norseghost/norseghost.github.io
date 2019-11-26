@@ -3,13 +3,13 @@
 title_skills: "Interesseområder"
 title_experience: "Arbejdserfaring"
 title_education: "Uddannelse"
-title_languages: "Sprog"
+title_other: "Andet"
 
-intro: "Jeg ser efter sammenhænge og meningsdannelser. Hvordan er en handling - hvad end den er individuel eller kollektiv - meningsbærende, situeret i sin kontekst? Dette søger jeg besvaret, gerne ved hjælp af teknologien."
+intro: "Efter at have tilbragt det meste af mit arbejdsliv som en af velfærdsstatens fodsoldater, øsnekr jeg nu at bidrage til velfærdsstatens videre udvikling i en anden rolle."
 
 skills:
-- Kvalitative og kvantitative undersøgelser.
-- Sociale interaktioner, og deres meningsdannelser.
+- Kvalitative og kvantitative undersøgelser, herunder tekstanalyser og interviews.
+- Sociale interaktioner, og deres meningsdannelser, i digital såvel som analog form.
 - Computer-assisterede undersøgelser, herunder Natural Language Processing og Machine Learning.
 
 experience:
@@ -17,7 +17,7 @@ experience:
   employer: Skovbo, Sødisbakke
   job: Pædagog
   city: Mariager
-  note: Arbejder med voksne mennesker med autismespektrumforstyrrelser og lignende.
+  note: Arbejder med voksne mennesker med autismespektrumforstyrrelser og lignende. Jeg var ungerende TR i 9 måneder, og har ivaretaget kontaktpædagog-opgaver, samt lavet dataudtræk fra vores journalsystem. Siden juni 2017 har jeg arbejdet som vågen nattevagt.
 
 education:
 - year: 2020
@@ -25,12 +25,23 @@ education:
   degree: Kandidat
   institute: Århus Universitet
   city: Århus
-  note: Arbejdede især med et kritisk blik på det specialiserede voksenområde. Udforskede den algoritmiske sociologi, og udviklede kendskab til R og tidyverse-tilgangen.
+  note: Jeg arbejder især med et kritisk blik på det specialiserede voksenområde, blandt andet dokumentationens konsekvenser og berettigelsen af en pædagogisk referenceramme. Jeg udforskede den algoritmiske sociologi til analyser af Instagram, og udviklede herigennem kendskab til R og tidyverse-tilgangen.
 - year: 2012
   subject: Pædagog
   degree: Professionsbachelor
   institute: University College Nordjylland
   city: Aalborg
-  note: Specialisering i funktionsnedsættelser, med særligt fokus på pædagogens rolle.
+  note: Specialisering i funktionsnedsættelser, med særligt fokus på pædagogens rolle. Jeg er især tilfreds med mit arbejde med den pædagogiske handletvang. Arbejdet med mennesker forudsætter, at der handles i relationen - og der er ingen ikke-handling. Dette stiller store krav til den professionelles refleksionsevner, både i og efter en given situation.
+
+other:
+- topic: Civilstand
+  info: Gift, med 3 børn i alderen 6 til 12
+- topic: Sprog
+  info: Engelsk, norsk, dansk, R, python
+- topic: Interesser
+  info: Tae Kwon Do (har sort bælte), madlavning, rollespil
+  
+
+
 
 ---

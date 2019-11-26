@@ -113,6 +113,23 @@ $endif$
 
 \vfill
 
+$if(education)$
+\section*{$title_education$}
+\noindent
+$for(education)$
+\begin{multicols}{2}
+\note{$education.year$}\textbf{$education.subject$}$if(education.degree)$, $education.degree$$endif$\\
+\emph{$education.institute$}$if(education.city)$, $education.city$$endif$\\[.2cm]
+$if(education.note)$
+\vfill
+\columnbreak
+$education.note$
+$endif$
+\end{multicols}
+$endfor$
+$endif$
+\vfill
+
 
 \section*{$title_experience$}
 \noindent
@@ -129,23 +146,6 @@ $endif$
 \end{multicols}
 $endfor$
 
-\vfill
-
-$if(education)$
-\section*{$title_education$}
-\noindent
-$for(education)$
-\begin{multicols}{2}
-\note{$education.year$}\textbf{$education.subject$}$if(education.degree)$, $education.degree$$endif$\\
-\emph{$education.institute$}$if(education.city)$, $education.city$$endif$\\[.2cm]
-$if(education.note)$
-\vfill
-\columnbreak
-$education.note$
-$endif$
-\end{multicols}
-$endfor$
-$endif$
 
 \vfill
 
