@@ -8,10 +8,13 @@ title_other: "About Me"
 intro: "My career until now has been in the frontlines of the welfare state. I now wish to apply my talents in a more strategic and analytical manner."
 
 skills:
-- Qualitative and quantitative research design, particularly document analysis and interviews.
-- Social interactions, and their signifiers of meaning, both online and offline.
-- Computer-assisted social research, in particular Natural Language Processing and Machine Learning.
-
+- desc: Qualitative and quantitative research design, particularly document analysis and interviews.
+  icon: poll
+- desc: Social interactions, and their signifiers of meaning, both online and offline.
+  icon: users
+- desc: Computer-assisted social research, in particular Natural Language Processing and Machine Learning.
+  icon: code
+  
 experience:
 - years: 2012--ongoing
   employer: Skovbo, Sødisbakke
