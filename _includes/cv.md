@@ -1,5 +1,5 @@
 {% if cv.intro %}
-
+![Martin Andersen](/assets/images/bio-picture.jpg){: .align-left}
 {{ cv.intro }}
 
 {% endif %}

@@ -79,9 +79,11 @@
 {\LARGE $author.name$}\\[.2cm]
 
 \begin{multicols}{3}
+\includegraphics[width=0.15\textwidth]{assets/images/bio-picture}$for(author.address)$
+$
+\columnbreak
 
-$for(author.address)$
-$author.address$\\
+author.address$\\
 $endfor$
 $author.phone$\\
 
@@ -90,9 +92,6 @@ $author.phone$\\
 \href{mailto:$author.email$}{$author.email$}\\
 \href{$url$}{$url$}\\
 
-\columnbreak
-
-\includegraphics[width=0.1\textwidth]{assets/images/bio-picture}
 \end{multicols}
 
 $if(intro)$
