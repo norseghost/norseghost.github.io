@@ -8,9 +8,12 @@ title_other: "Andet"
 intro: "Efter at have tilbragt det meste af mit arbejdsliv som en af velfærdsstatens fodsoldater, ønsker jeg nu at bidrage til og påvirke velfærdsstatens videre udvikling i en anden rolle."
 
 skills:
-- Kvalitative og kvantitative undersøgelser, herunder tekstanalyser og interviews.
-- Sociale interaktioner, og deres meningsdannelser, i digital såvel som analog form.
-- Computer-assisterede undersøgelser, herunder Natural Language Processing og Machine Learning.
+- desc: Kvalitative og kvantitative undersøgelser, herunder tekstanalyser og interviews.
+  icon: poll
+- desc: Sociale interaktioner, og deres meningsdannelser, i digital såvel som analog form.
+  icon: user
+- desc: Computer-assisterede undersøgelser, herunder Natural Language Processing og Machine Learning.
+  icon: laptop-code
 
 experience:
 - years: 2012--d.d.

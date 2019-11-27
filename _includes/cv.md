@@ -5,7 +5,7 @@
 
 {% if cv.skills %}
 | | **{{ cv.title_skills }}**
-{% for skill in cv.skills %}| | |  {{ skill }}
+{% for skill in cv.skills %}| | <i class="fas fa-{{ skill.icon }}"> |  {{ skill.desc }}
 {% endfor %}{% endif %}{% if cv.education %}| | **{{ cv.title_education }}**
 {% for edu in cv.education %}| {{ edu.year }} | **{{ edu.subject }}**,<br />*{{ edu.degree }}*,<br />{{ edu.institute }},<br />{{ edu.city }} | {{ edu.note }}
 {% endfor %}{% endif %}{% if cv.experience %}| | **{{ cv.title_experience }}**
