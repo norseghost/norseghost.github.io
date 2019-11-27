@@ -1,5 +1,5 @@
 {% if cv.intro %}
-![Martin Andersen](/assets/images/bio-picture.jpg){: .align-left}
+![Martin Andersen](/assets/images/bio-picture.jpg){: .align-left height: "8em"}
 {{ cv.intro }}
 
 {% endif %}
@@ -14,5 +14,3 @@
 {% endfor %}{% endif %}{% if cv.other %} | | **{{ cv.title_other }}**
 {% for misc in cv.other %}| | {{ misc.topic }} | {{ misc.info }}
 {% endfor %} {% endif %}
-
-
