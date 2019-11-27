@@ -78,27 +78,24 @@
 
 {\LARGE $author.name$}\\[.2cm]
 
-\begin{multicols}{2}
+\begin{multicols}{3}
 
 $for(author.address)$
 $author.address$\\
 $endfor$
-
-\vspace{-10pt}
-
 $author.phone$\\
-\href{mailto:$author.email$}{$author.email$}\\
-
 
 \columnbreak
 
+\href{mailto:$author.email$}{$author.email$}\\
 \href{$url$}{$url$}\\
-\href{https://www.linkedin.com/in/$author.linkedin$}{https://www.linkedin.com/in/$author.linkedin$}\\
-\href{https://stackoverflow.com/users/$author.stackoverflow$}{https://stackoverflow.com/users/$author.stackoverflow$}\\
+
+\columnbreak
+
+\includegraphics[width=0.1\textwidth]{assets/images/bio-picture}
 \end{multicols}
 
 $if(intro)$
-\includegraphics[width=0.2\textwidth]{assets/images/bio-picture}
 $intro$
 $endif$
 
