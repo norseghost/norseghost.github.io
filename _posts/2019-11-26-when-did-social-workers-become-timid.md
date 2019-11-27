@@ -1,6 +1,6 @@
 ---
 title: "When aid social workers become timid?"
-date: "2019-11-06 08:50:54 +0100"
+tags: social-work, sociology, professional-care
 ---
 
 I've been working with the mentally atypical and disabled for quite nearly two decades.
