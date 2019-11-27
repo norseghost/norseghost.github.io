@@ -2,6 +2,7 @@
 %!TEX encoding = UTF-8 Unicode
 
 \documentclass[$fontsize$, a4paper]{article}
+\usepackage{graphicx}
 
 % LAYOUT
 %--------------------------------
@@ -97,6 +98,7 @@ $author.phone$\\
 \end{multicols}
 
 $if(intro)$
+\includegraphics[width=0.2\textwidth]{../assets/images/bio-picture}
 $intro$
 $endif$
 
@@ -118,8 +120,8 @@ $if(education)$
 \noindent
 $for(education)$
 \begin{multicols}{2}
-\note{$education.year$}\textbf{$education.subject$}\\
-$if(education.degree)$, $education.degree$$endif$\\
+\note{$education.year$}\textbf{$education.subject$}$if(education.degree)$,\\
+$education.degree$$endif$\\
 \emph{$education.institute$}$if(education.city)$,\\
 $education.city$$endif$\\[.2cm]
 $if(education.note)$
@@ -155,7 +157,7 @@ $if(other)$
 \section*{$title_other$}
 $for(other)$
 \emph{$other.topic$}\\
-$other.info$
+$other.info$\\
 $endfor$
 $endif$
 

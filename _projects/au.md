@@ -1,6 +1,7 @@
 ---
 title: "Selected assignments at Aarhus University"
 layout: single
+read_time: false
 ---
 
 A selection of the assignments and research I've conducted as I've pursued a MA in Educational Sociology.
