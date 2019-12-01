@@ -1,6 +1,6 @@
 ---
 title: "How we dress and social signaling"
-tags: clothes sociology
+tags: [clothes, sociology, style, social signalling]
 ---
 
 I've been interested in clothes for a good while. While this feels rather 

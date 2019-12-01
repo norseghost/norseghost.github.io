@@ -1,6 +1,6 @@
 ---
 title: "Social constructivism and (working with) the cognitively impaired"
-tags: social-education social-constructivism ASF sociology narrative-analysis
+tags: [social education, social constructivism, ASF, sociology, narrative analysis, special needs]
 ---
 
 I was first introduced to the concept of social constructivism while studying

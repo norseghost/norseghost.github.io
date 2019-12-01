@@ -1,7 +1,7 @@
 ---
 title: "Gatecrashing the NLP party"
 date: "2019-11-10 22:19:25 +0100"
-tags: nlp "machine learning" sociology personal uni rstats python
+tags: [nlp, machine learning, sociology, personal, uni, rstats, python]
 ---
 
 OK, so I didn't really crash any gates.

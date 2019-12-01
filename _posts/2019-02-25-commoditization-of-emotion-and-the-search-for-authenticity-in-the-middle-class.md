@@ -1,7 +1,7 @@
 ---
 title: "Commoditization of emotion, and the search for authenticity in the middle class"
 date: "2019-02-25 10:39:32 +0100"
-tags: socialization class feeling emotion
+tags: [socialization, class, feeling, emotional labor, style]
 ---
 
 

@@ -1,15 +1,12 @@
 ---
 title: "Social work and power dynamics"
-tags: social-work power coercion reflexivity ethics responsibility
+tags: [social work, power, coercion, reflexivity, ethics, responsibility, special needs]
 ---
 
 # The nature of power in social work 
 
-An issue in social work that one almost cannot be too conscious of is the
-asymmetrical power dynamic inherent in the nature of the work. In my career
-working with adults with cognitive disabilities, I've seen - and perpetuated
-- a lack of reflexivity concerning the nature and extent of the power and
-control we as professionals exert upon those in our care.
+An issue in social work that one almost cannot be too conscious of is the asymmetrical power dynamic inherent in the nature of the work.
+In my career working with adults with cognitive disabilities, I've seen - and perpetuated - a lack of reflexivity concerning the nature and extent of the power and control we as professionals exert upon those in our care.
 
 This is a demographic where the professional responsibility is to constantly
 make decisions and perform choices on their behalf. They very often have no or

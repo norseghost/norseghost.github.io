@@ -1,7 +1,7 @@
 ---
 title: "Social work as (re)socialization in practice"
 date: "2019-02-28 11:44:56 +0100"
-tags: “social work” socialization minorities inequality reproduction
+tags: [social work, socialization, minorities, inequality, reproduction]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "When did social workers become timid?"
-tags: social-work, sociology, professional-care
+tags: [social work, sociology, professional care, special needs, power]
 ---
 
 I've been working with the mentally atypical and disabled for quite nearly two decades.

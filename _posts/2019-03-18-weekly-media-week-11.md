@@ -1,7 +1,7 @@
 ---
 title: "Weekly Media - Week 11"
 date: "2019-03-18 01:25:40 +0100"
-tags: media comics tv style 
+tags: [weekly reading, media, comics, tv, style]
 ---
 
 Not a lot of links in this list today, partly due to RSS feed cleanup,

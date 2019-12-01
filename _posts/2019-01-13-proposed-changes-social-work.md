@@ -1,6 +1,6 @@
 ---
 title: "Comments on the proposed changes for working with the cognitively impaired in Denmark"
-tags: sociology power coercion normativity welfare
+tags: [sociology, power, coercion, normativity, welfare, special needs]
 ---
 
 This post has been percolating for nearly half a year --- about as long as

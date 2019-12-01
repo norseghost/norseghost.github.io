@@ -1,7 +1,7 @@
 ---
 title: "Sexism, my children, and I"
 date: "2019-01-14 01:34:30 +0100" 
-tags: gender sexism toxic-masculinity
+tags: [gender, sexism, toxic masculinity]
 ---
 
 During the past years, I have become much more attuned to the problems of

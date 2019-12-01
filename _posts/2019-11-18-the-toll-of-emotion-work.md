@@ -1,6 +1,6 @@
 ---
 title: "The Toll of Emotional Labor"
-tags: sociology, personal, social_work, emotional_labor, special_needs
+tags: [sociology, personal, social work, emotional labor, special needs]
 ---
 
 I've been doing “emotion work” most of my adult life; a lot of it in assisting the (very) differently abled.
