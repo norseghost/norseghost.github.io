@@ -3,13 +3,9 @@ title: "Guides and tutorials"
 permalink: /guides/
 collection: guides
 read_time: false
-sidebar:
+entries_layout: grid
+dsidebar:
     nav: "guides"
 ---
-{% for guide in site.guides %}
-  <h2>
-    <a href="{{ guide.url }}">
-      {{ guide.title }}
-    </a>
-  </h2>
-{% endfor %}
+Sometimes, I do something.
+And then I spend a lot more time writing down **how** I did it, so I can remember later.
