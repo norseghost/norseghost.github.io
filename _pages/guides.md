@@ -7,5 +7,3 @@ entries_layout: grid
 sidebar:
     nav: "guides"
 ---
-Sometimes, I do something.
-And then I spend a lot more time writing down **how** I did it, so I can remember later.
