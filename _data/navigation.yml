@@ -12,6 +12,8 @@ main:
 projects:
   - title: "Aarhus University"
     url: /projects/au/
+  - title: "University College Nordjylland"
+    url: /projects/ucn/
 
 guides:
   - title: "A Nerd's Guide to Writing for AU"

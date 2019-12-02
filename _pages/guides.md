@@ -4,7 +4,7 @@ permalink: /guides/
 collection: guides
 read_time: false
 entries_layout: grid
-dsidebar:
+sidebar:
     nav: "guides"
 ---
 Sometimes, I do something.

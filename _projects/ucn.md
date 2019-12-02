@@ -1,6 +1,6 @@
 ---
 title: "Work done during studying for my BA in Social Education"
-layout: Single
+layout: single
 read_time: false
 ---
 This is a selection of assignments I've authored or contributed to while studying for my BA in Social Education.
