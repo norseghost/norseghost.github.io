@@ -33,4 +33,14 @@ Through a group interview I researched how social care workers view themselves a
 Through a discussion with Foucault's *gouvernementalité* and Baumann's concept of the liquid modernity
 I propose that much of the “professional” tools available to social workers, in the form of pedagogical dogmas and guidelines, are less about managing the output of the social worker and more about ensuring cohesiveness in a constantly emergent and, well, fluid, worker base.
 
-[Download PDF](/assets/pdf/apst-eksamen.pdf]
+[Download PDF](/assets/pdf/apst-eksamen.pdf)
+
+## Masters Thesis
+*in progress*
+
+I text-mined speeches from the floor of the Danish parliament, ranging from 1978 to 2019.
+My focus was to investigate and describe trends in the political discourse on and around education.
+In addition; I wanted to try and drill down into the tension between the vocational and academic tracks in Danish lower secondary education.
+
+<!-- [Download PDF](/assets/pdf/mastersthesis.pdf) -->
+[View code and data on GitHub](https://github.com/norseghost/masterthesis)|[Interactive topic model exploration](/masterthesis/ldavis/)
