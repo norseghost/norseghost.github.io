@@ -43,4 +43,4 @@ My focus was to investigate and describe trends in the political discourse on an
 In addition; I wanted to try and drill down into the tension between the vocational and academic tracks in Danish lower secondary education.
 
 <!-- [Download PDF](/assets/pdf/mastersthesis.pdf) -->
-[View code and data on GitHub](https://github.com/norseghost/masterthesis)|[Interactive topic model exploration](/masterthesis/ldavis/)
+[View code and data on GitHub](https://github.com/norseghost/masterthesis) | [Interactive topic model exploration](/masterthesis/ldavis/)
