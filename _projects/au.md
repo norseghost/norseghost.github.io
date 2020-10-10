@@ -42,5 +42,6 @@ I text-mined speeches from the floor of the Danish parliament, ranging from 1978
 My focus was to investigate and describe trends in the political discourse on and around education.
 In addition; I wanted to try and drill down into the tension between the vocational and academic tracks in Danish lower secondary education.
 
-<!-- [Download PDF](/assets/pdf/mastersthesis.pdf) -->
-[View code and data on GitHub](https://github.com/norseghost/masterthesis) | [Interactive topic model exploration](/masterthesis/ldavis/)
+The data set is too large to store on GitHub, but is available upon request.
+
+[Download PDF](/assets/pdf/mastersthesis.pdf) | [View code on GitHub](https://github.com/norseghost/master-thesis) | [Interactive topic model exploration](/assets/ldavis/)
