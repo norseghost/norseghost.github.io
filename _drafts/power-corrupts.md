@@ -5,6 +5,8 @@ categories: social work, power dynamics
 tags: social-work
 ---
 
+# Or, the hubris of good intentions
+
 I recently found myself in a meeting at work[^1], reflecting on how the style of leadership had changed[^2] the past year.
 The emphasis had shifted from “the daily routine is all important” to  “predictability allows for adjustments moment to moment”.
 Well, all well and good  - a minor adjustment to emphasis in the day to day social work sausage, as it were, right?
@@ -56,15 +58,31 @@ I have personally failed in this regard, and can only hope to do better and keep
 
 # The power ~~entrusted to~~ *delegated from* management
 
-The expanse and excess of the encroachment of the previous leadership upon the personal agency of the residents is, infact, too long and tedious to list.
+The expanse and excess of the encroachment of the previous leadership upon the personal agency of the residents is, infact, too long and tedious to list [^yikes]  
+
+[^yikes]: ...yeah. This sounds bad, and it is bad. Again; there is probably quite the interesting story to uncover here, if anyone ware so inclined.
+
 But they were not constrained to limit the agency of the residents.
 They hindered the negotiation and navigation neccssary by the grunts on the floor, thus further increasing the chances of abuses of power and undue stress upon the residents.
 
 One of the phrases often repeated during the meeting I mentioned above was:
 
-
 > We trust your judgement as front line personel
 
 This in contrast to the previous administrator, who overruled our call to skip a planned walk for a resident.
-The resident was, as we had assessed, not up for this activity at this time, and the situation escalated further later that evening.
+The resident was, as we had assessed, not up for this activity at this time, and the situation escalated further later that evening, to great distress for the resident as well as the staff.
 
+This was not the only occurence of institutional and/or administrative norms and decisions overruling the needs and desires of the residents, often over the heads of the staff.
+To see and hear that the new[^admin] is turning over a new leaf as regards resident agency and well-being as well as staff competency and situational knowledge is quite refreshing.
+
+[^admin]: the new management does retain some members of the old; but with newfound agency (heh) to affect change differently
+
+# Navigating grey areas and conflicting imperatives
+
+What I would like for you to take away from this... rant? confession? ramble? is that people-work is hard.
+Management can help shoulder the burden, though.
+By trusting in the judgment of the workers *and* the residents — the resident can quite well know a walk is not the most important thing **right now**; or the worker can read the entirety of the immediate *now* as well as past and future stimuli to modulate the current schedule.
+And also by establishing guidelines for professional care that allow for a measure of humility in the uneven relationship between carer and care — even the best intentioned plans must be reassessed when the rubber meets the road.
+
+This humility is necessary to navigate the gray areas.
+How should the social worker encourage and assist in brushing of teeth on a resident who neither cares for the sensation nor is capable of understanding the purpose?
