@@ -5,7 +5,7 @@ title_experience: "Arbejdserfaring"
 title_education: "Uddannelse"
 title_other: "Om mig"
 
-intro: "Efter at have tilbragt det meste af mit arbejdsliv som en af velfærdsstatens fodsoldater, ønsker jeg nu at bidrage til og påvirke velfærdsstatens videre udvikling i en anden rolle."
+intro: "Efter at have brugt det meste af mit arbejdsliv som en af velfærdsstatens fodsoldater, ønsker jeg nu at bidrage til og påvirke velfærdsstatens videre udvikling i en anden rolle."
 
 skills:
 - desc: Kvalitative og kvantitative undersøgelser, herunder tekstanalyser og interviews.
@@ -14,13 +14,15 @@ skills:
   icon: user
 - desc: Computer-assisterede undersøgelser, herunder Natural Language Processing og Machine Learning.
   icon: laptop-code
+- desc: Socialpædagogisk bistand og miljøterapeutisk støtte for borgere med komplekse og sammensatte forudsætninger.
+  icon: users
 
 experience:
 - years: 2012--d.d.
   employer: Skovbo, Sødisbakke
   job: Pædagog
   city: Mariager
-  note: Arbejder med voksne mennesker med autismespektrumforstyrrelser og lignende. Jeg var fungerende TR i 9 måneder, og har ivaretaget kontaktpædagog-opgaver, samt lavet dataudtræk fra vores journalsystem. Siden juni 2017 har jeg arbejdet som vågen nattevagt.
+  note: Arbejder med voksne mennesker med autismespektrumforstyrrelser og lignende. Tjente som fungerende TR i 9 måneder, og har ivaretaget kontaktpædagog-opgaver, samt lavet dataudtræk fra vores journalsystem. Siden juni 2017 har jeg arbejdet som vågen nattevagt.
 - years: 2003-2012
   job: Omsorgsmedarbejder
   city: Aalborg, Lillesand, med videre
@@ -28,9 +30,9 @@ experience:
   note: Jeg har arbejdet som ufaglært i handicapområdet, både som voksenven og tilkaldevikar. Jeg har også været tilkaldevíkar i ældreplejen.
 
 education:
-- year: 2020
+- years: 2020-2022
   subject: Pædagogisk Sociologi
-  degree: Kandidat (igangværende)
+  degree: Kandidat
   institute: Århus Universitet
   city: Århus
   note: Jeg arbejder især med et kritisk blik på det specialiserede voksenområde, blandt andet dokumentationens konsekvenser og berettigelsen af en pædagogisk referenceramme. Jeg udforskede den algoritmiske sociologi til analyser af Instagram, og udviklede herigennem kendskab til R og tidyverse-tilgangen. Dette førte jeg videre i mit speciale, hvor jeg udforskede taler fra folketinget med et bredt udvalg af NLP og ML værktøjer.
@@ -41,15 +43,15 @@ education:
   city: Aalborg
   note: Specialisering i funktionsnedsættelser, med særligt fokus på pædagogens rolle. Jeg er især tilfreds med mit arbejde med den pædagogiske handletvang. Arbejdet med mennesker forudsætter, at der handles i relationen - og der er ingen ikke-handling. Dette stiller store krav til den professionelles refleksionsevner, både i og efter en given situation.
 
-  
+
 other:
 - topic: Civilstand
-  info: Gift, med 3 børn i alderen 6 til 12
+  info: Gift, med 3 børn fra 2007, 2009, og 2013
 - topic: Sprog
-  info: Engelsk, norsk, dansk, R, python
+  info: Engelsk, norsk, dansk, R, Python, Lua
 - topic: Interesser
-  info: Tae Kwon Do (har sort bælte), madlavning, rollespil
-  
+  info: Tae Kwon Do (har sort bælte), madlavning, rollespil, hundetræning
+
 
 
 

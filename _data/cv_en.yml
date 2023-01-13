@@ -14,38 +14,40 @@ skills:
   icon: users
 - desc: Computer-assisted social research, in particular Natural Language Processing and Machine Learning.
   icon: code
-  
+- desc: Specialized care and intervention to assist citizens with highly varied and complex developmental challenges.
+  icon: Users
+
 experience:
 - years: 2012--ongoing
   employer: Skovbo, Sødisbakke
   job: Social Worker
   city: Mariager
-  note: I work in an assisted living facility for adults with autism spectrum disorders and severe mental impairment. I have been an union representative, been part of citizen teams, and collated data from our journalling systems. Since June 2017 I have been working the night shift.
+  note: I work in an assisted living facility for adults with autism spectrum disorders and severe mental impairment. I have been an union representative, been part of citizen teams, and collated data from our journaling systems. Since June 2017 I have been working the night shift.
 - years: 2003-2012
   job: On-call substitute
   city: Aalborg, Lillesand, and others
   employer: Various
   note: I have worked as untrained help among the disabled, both as a Big Brother as well as on-call substitute. I have also been on-call untrained help in geriatric care.
-  
+
 education:
-- year: 2020
+- years: 2020-2022
   subject: Educational Sociology
-  degree: Master of Arts (in progress)
+  degree: Master of Arts
   institute: Århus University
   city: Århus
-  note: Had a critical look at the state of Danish dis/ability policies, for instance the consequences of a documented existence and the justifications for a particular methodological approach. In addition, i explored computational sociology through an analysis of Instagram posts, in which I explored R and the tidyverse. This was forther expanded in my Master's thesis, in which I explored Danish parliamentary speeches through a wide array of NLP and ML techniques.
+  note: Had a critical look at the state of Danish dis/ability policies, for instance the consequences of a documented existence and the justifications for a particular methodological approach. In addition, i explored computational sociology through an analysis of Instagram posts, in which I explored R and the tidyverse. This was further expanded in my Master's thesis, in which I explored Danish parliamentary speeches through a wide array of NLP and ML techniques.
 - year: 2012
   subject: Social Education
   degree: Bachelor of Arts
   institute: University College Nordjylland
   city: Aalborg
-  note: Specialized in citizens with disability, with a particular focus on the role of the practitioner. I am particularily pleased with my work on the neccessity of action for the practitioner. People-work requires action - even inaction is an action. This, in turn, places great demands upon the practitioner's self-reflexivity, both as an episode unfolds as well as afterward.
+  note: Specialized in citizens with disability, with a particular focus on the role of the practitioner. I am particularly pleased with my work on the necessity of action for the practitioner. People-work requires action - even inaction is an action. This, in turn, places great demands upon the practitioner's self-reflexivity, both as an episode unfolds as well as afterward.
 
 other:
 - topic: Civil Status
-  info: Married, with 3 children ages 6 through 12
+  info: Married, with 3 children born 2007, 2009, and 2013
 - topic: Languages
-  info: English, Danish, Norwegian, R, python
+  info: English, Danish, Norwegian, R, Python, Lua
 - topic: Interests
   info: Tae Kwon Do (1st level black belt), cooking, role playing games
 
