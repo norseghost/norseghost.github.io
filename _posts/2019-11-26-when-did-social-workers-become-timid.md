@@ -28,12 +28,13 @@ For the neurotypical mind, this discomfiture is managed through a process called
 
 For the developmentally atypical, a small change — even a change of environment — can seem insurmountable; the treshold of the unknown a vast and terrible thing.
 Sometimes, a calm and guiding force can ease this great uncertainty, lending strength and surety.
-But here, I think, we arrive at the crux of the matter: the caregiver must accept the uneven power balance, and, in the immortal words of Uncle Ben, recognize the great responsibility it is to act on behalf of and for the benefit of another.
-[I keep referencing this post on power dynamics][power].
+But here, I think, we arrive at the crux of the matter: the caregiver must accept the uneven power balance, and, in the immortal words of Uncle Ben, recognize the great responsibility it is to act on behalf of and for the benefit of another[^power-post].
+
 Without being cognizant of our power and responsibility, and using them to enact change in the world, social workers risk becoming timorous and cowering.
 
 This should not be the actions of my profession, such as it is.
 
-[power]: {{ site.baseurl }}{% post_url 2018-10-03-social-work-and-power-dynamics %}
+[^power-post]: [I keep referencing this post on power dynamics] [power].
 [^neuro]: For a diatribe (in Danish) regarding my thougtts on “neuropedagpy” as a panacea, see essay 2 of [this assignment for AU](/assets/pdf/uip-portfolio.pdf). Spoiler: I am unconvinced.
 [^note]: A transition from a common pasttime to a truly enjoyable one. A transtion that often was fraught, volatilea and even violent. But worth it to see the expresion of pride and contentment after a successful quest.
+[power]: {{ site.baseurl }}{% post_url 2018-10-03-social-work-and-power-dynamics %}

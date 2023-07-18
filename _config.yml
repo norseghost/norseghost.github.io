@@ -18,8 +18,8 @@ atom_feed:
 # Site Author
 author:
   address:
-    - Enggården 35 
-    - 9520 Skørping
+    - Staunvej 16
+    - 9240 Nibe
     - Danmark
   name             : "Martin Andreas Andersen"
   avatar           : "/assets/images/bio-picture.jpg"
@@ -27,13 +27,13 @@ author:
   location         : "Skørping, DK"
   email            : martin.andreas.andersen@gmail.com
   phone: "+45 52 39 85 86"
-  uri              : 
+  uri              :
   home             : /martin/ # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   facebook         : draug3n
   github           : norseghost
-  gitlab           : 
+  gitlab           :
   keybase          :
   instagram        : martin.andreas.andersen
   linkedin         : norseghost/
@@ -132,7 +132,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
-#  - jekyll-archives 
+#  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:

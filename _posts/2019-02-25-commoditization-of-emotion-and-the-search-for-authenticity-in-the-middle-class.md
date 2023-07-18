@@ -4,8 +4,6 @@ date: "2019-02-25 10:39:32 +0100"
 tags: [socialization, class, feeling, emotional labor, style]
 ---
 
-
-
 As part of my course in socialization and everyday life, I’ve had Arlie
 Hochschild’s *Emotion Work, Feeling Rules, and Social
 Structure*[^Hochschild] assigned. As a near aside, close to the
@@ -33,11 +31,11 @@ a contemporary slim tapered cut). My [boots][boots] are handmade by
 a [dude in his garage][ostmo], with design inspiration from traditional
 Norwegian boots. My [*other* boots][solovair] have a storied British
 workboot heritage. I even had my Mom knit me a sweater inspired by
-traditional old Norwegian fisherman’s gear. Nevermind that I hardly know
+traditional old Norwegian fisherman’s gear. Never mind that I hardly know
 how to row, or clean a fish, even if my ancestors did.
 
 This yearning for authenticity also extends to other areas of my life.
-I enjoy cooking (certain things) from the ground up (a bearnaise sauce is
+I enjoy cooking (certain things) from the ground up (a Bearnaise sauce is
 ‘merely’ mayonnaise, with warm, cleared butter instead of oil), we have
 a certain amount of vintage furniture (in which really, they did make some
 things better ~40-50 years ago). I use a safety razor, just like old
@@ -72,7 +70,7 @@ interesting enough for a blog post at least.
 
 [^Hochschild]: Hochschild, A. R. (1979). Emotion Work, Feeling Rules, and Social Structure. American Journal of Sociology, 85(3), 551–575.  https://doi.org/10.1086/227049
 
-[signalling]:{{ site.baseurl }}{% post_url 2018-09-02-how-we-dress-and-social-signaling %}
+[signalling]:{% post_url 2018-09-02-how-we-dress-and-social-signaling %}
 
 [jeans]: https://momotarojeans.net/collection/0306-V/index.html
 
@@ -86,7 +84,7 @@ interesting enough for a blog post at least.
 
 [patina]: /assets/images/2019-02-wallet-patina.jpg
 
-[katrine]: https://www.instagram.com/katrinenittenfireogfirs/ 
+[katrine]: https://www.instagram.com/katrinenittenfireogfirs/
 
 [ensso]: https://www.ensso.com/products/xs-pocket-fountain-pen
 

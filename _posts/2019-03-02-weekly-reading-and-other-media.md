@@ -11,7 +11,7 @@ this time in audiobook form. Starting in January, I continued with the
 *Liveship Traders*, a follow-on story in the same universe, with a shared
 character.
 
-What truly strikes me ini Hobb’s writing is how evocative her
+What truly strikes me in Hobb’s writing is how evocative her
 worldbuilding is, particularly when the civilized southlands are
 contrasted to the northern barbarians of the first trilogy. The subtle
 social commentary regarding the role of women in society from those same
@@ -58,7 +58,7 @@ On [Faculty Focus](https://www.facultyfocus.com/), Miriam Bowers-Abbott
 [provides another nail in the
 coffin](https://www.facultyfocus.com/articles/course-design-ideas/from-summiting-blooms-to-promoting-lifelong-learning/)
 in which Bloom’s Taxonomy is slowly being interred. Instead, other models
-for course design are shown for consideration. Kagans model of
+for course design are shown for consideration. Kagan's model of
 understanding (comprehension), transforming (inductive/deductive logic)
 and generating (research skills), as well as taking inspiration from
 workforce training programs to induce a lifelong love of learning.
@@ -78,14 +78,13 @@ FUCKED*](https://theconversation.com/the-red-pill-or-the-blue-pill-endless-consu
 Dammit.
 
 Through a Reddit thread (which I cant resurface right now), I’ve added
-some sociology-adjacent podcasts to my rotation. I’ve listened to af few
+some sociology-adjacent podcasts to my rotation. I’ve listened to a few
 episodes of [Thinking Allowed](https://www.bbc.co.uk/programmes/b006qy05),
 and the episodes on [snobbery](https://www.bbc.co.uk/programmes/m0002ml7)
 and [the class ceiling](https://www.bbc.co.uk/programmes/m000281t) were
 particularly apropos my current courses. The one on snobbery also
 presented a classist angle to my discussion on [middle-class yearning for
-authenticity]({{ site.baseurl }}{% post_url
+authenticity]({% post_url
 2019-02-25-commoditization-of-emotion-and-the-search-for-authenticity-in-the-middle-class
 %}): It is a form of class distinction, of saying ‘I am not common!’.
 Sometimes while appropriating the attire and artifacts of ‘common’ people.
-

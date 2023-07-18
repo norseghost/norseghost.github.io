@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Weekly media - week 10"
 date: "2019-03-10 03:55:32 +0100"
 tags: [books, movies, tv, news, sociology, weekly reading]
