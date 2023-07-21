@@ -1,5 +1,5 @@
 ---
-title: "Weekly Media - Week 11"
+title: "I Read: editor procastination, make everyone a cheater, and more"
 date: "2019-03-18 01:25:40 +0100"
 tags: [weekly reading, media, comics, tv, style]
 ---
@@ -33,7 +33,7 @@ I’ve been spending rather more time than probably wise on (neo)vim
 threads, procrastinating *writing* my exam papers by making my editor of
 choice more better-er. I’ve still got work to do, though:
 
-- I don’t like autocomplete having no delay at all. Should set one at 
+- I don’t like autocomplete having no delay at all. Should set one at
   hmmm, 1 secondds or maybe 2. Also, SuperTab trips me out when I actualy
   want to tab sometimes.
 - vim-pencil does nice things for my writing environment, but having to
@@ -58,5 +58,3 @@ palette](https://eeecon.uibk.ac.at/~zeileis/news/endrainbow/) for data
 vizualisations. The examples illustrate quite well how ill-suited the
 ever-ubiqutous RGB full saturation approach is. Neither readability nor
 accessibility are served many favors.
-
-

@@ -33,7 +33,7 @@ I have taken for granted that a) my curiosity may be sated and b) my lack of opp
 It is expected of me to desire development and personal progress, and to seek to correct a situation where these expectations and desires are not met.
 
 This is exactly the central topic of the last lecture of my first week: *The educative discourse.*
-Our lecturer, [Jonas Lieberkind] [jlieberkind] detailed how, in the past decades, there has been an increased focus on refining, improving, extracting humane resources.
+Our lecturer, [Jonas Lieberkind] [jlieberkind], detailed how, in the past decades, there has been an increased focus on refining, improving, extracting humane resources.
 
 (pardon me while I rewrite my semi-legible scrawled notes in public)
 

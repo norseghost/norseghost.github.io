@@ -17,7 +17,7 @@ Something resembling a professional identity[^prof].
 
 Luckily, Aarhus University have come to the same conclusions.
 Thus, students have the opportunity to get career coaching before graduation.
-I chose the course offered by [Martabolette Stecher][stecher], after perusing the [introductory material][sandbox].
+I chose the course offered by [Martabolette Stecher] [stecher], after perusing the [introductory material] [sandbox].
 
 It has been quite interesting so far, about halfway in.
 (Re)articulating defining character traits and strengths is all well and good - this is, after all, what I will bring to the table when it comes to employment.

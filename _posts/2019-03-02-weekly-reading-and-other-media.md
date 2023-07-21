@@ -1,5 +1,5 @@
 ---
-title: "Weekly reading and other media"
+title: "Weekly Reading: Worldbuilding, Bodily Cognition, and More"
 date: "2019-03-02 22:21:27 +0100"
 tags: [weekly reading, media, sociology, tv, books, podcasts]
 ---

@@ -7,7 +7,7 @@ This post has been percolating for nearly half a year --- about as long as
 the blog has been dormant. But now I rear my head from the depths of exam
 prep and... Amuse myself with more sociological pondering.
 
-I've [previously written][power] about the fraught and nearly
+I've [previously written] [power] about the fraught and nearly
 disassociative relationship concerning use of power in working with the
 cognitively impaired. In Denmark, the trend has (quite deliberately) been
 to actively and explicitly limit the ways in which disabled citizens can be
@@ -16,8 +16,8 @@ from the crimes of the not-so-distant past, where the 'undesirables'
 were subjected to all manner of horrifying abuse.
 
 The Danish legislation governing, among other things, the care of citizens with
-cognitive disabilities, is [‘the Law of Social Service’][borne-ogsocialministerietBekendtgorelseAfLov2018].
-This fall, a broad political commission proposed new [legislation][nyeregler] in
+cognitive disabilities, is [‘the Law of Social Service’] [borne-ogsocialministerietBekendtgorelseAfLov2018].
+This fall, a broad political commission proposed new [legislation] [nyeregler] in
 this field.
 
 The stated intent is to un-muddle the waters, as it were. Fix certain
@@ -41,7 +41,7 @@ are put in a position of power over another when it is made explicit; the
 more subtle ways of control and manipulation are unvoiced and
 under-debated (outside the professional discourse at least).
 
-The proposal refers to an [audit performed in 2017][eftersyn] of practices
+The proposal refers to an [audit performed in 2017] [eftersyn] of practices
 vis-a-vis the rules. This audit revealed a) the standing legislation sometimes
 became a barrier to fulfilling the obligations of care; and b) this led to
 professional uncertainty as to when a certain intervention would be classified
@@ -95,7 +95,7 @@ above (all are to support care, dignity and well-being and/or prevent harm), but
 
 * In points 5 and 6, the curtailing of independence is explicitly allowed, for
   instances of imminent harm or danger to the citizen, other citizens, or
-  possesions and valuables. These however, *are* to be reported formally.
+  possessions and valuables. These however, *are* to be reported formally.
   Points 7, 8 and 14 discuss this professional duty further; the assisted
   living facilities have a responsibility to document plans to minimize
   , and actively utilize these reflexively in developing a workplace
@@ -110,7 +110,7 @@ above (all are to support care, dignity and well-being and/or prevent harm), but
   politically. A cultural change as to the purpose and beneficiaries of such
   reports seems necessary first.
 
-* Point 10 refers to a dilemma that has been [voiced in Danish press][døre] as
+* Point 10 refers to a dilemma that has been [voiced in Danish press] [døre] as
   well as seen in my own professional experience. Permission can be given to
   lock doors or windows in a citizens private living area, if they are
   considered prone to wandering without grasp of consequences. One door must
@@ -118,7 +118,7 @@ above (all are to support care, dignity and well-being and/or prevent harm), but
   of not being able to keep perfect watch at all times.
 
 * The term *welfare technologies* is added in points 11-12, to allow for
-  electronic monitoring of certain at-risk individals. Emphasis is, again, on
+  electronic monitoring of certain at-risk individuals. Emphasis is, again, on
   ensuring care, dignity and safety; with the overall intent of increasing
   quality-of-life and increased opportunities for expression of self.
 

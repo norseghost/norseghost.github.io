@@ -14,7 +14,7 @@ My wife is a store assistent.
 I am in school; at least one more of my fellow students has the same motivation as I.
 I have a colleague who transitioned laterally, from a social advisory role to a more direct caregiving role[^1].
 
-[Asterisk][asterisk], my faculty magazine, even [had the whole last issue][asterisk91] related to the concept of “professional care”.
+[Asterisk] [asterisk], my faculty magazine, even [had the whole last issue] [asterisk91] related to the concept of “professional care”.
 
 It became particularity clear a couple of days ago, as I was talking to an old acquaintance who shares my line of work.
 Or, at least he did.
@@ -35,7 +35,7 @@ We help them navigate their wishes and sometimes conflicting desires.
 We try to ensure their days have stability, structure, and purpose[^2].
 
 But this can also entail conflict.
-For example; when an immediate desire (such as visiting family) is not immediately able to be fulfilled, reactions to disappointment and frustrations can be... counterproductive. 
+For example; when an immediate desire (such as visiting family) is not immediately able to be fulfilled, reactions to disappointment and frustrations can be... counterproductive.
 Self-harm and/or *externally oriented outbursts*, as we euphemistically describe actions that might for all the world seem like physical assault of our bodies.
 
 And thus we must act. Do we flee? Do we embrace? Do we play possum? Do we rebuke?
@@ -49,7 +49,7 @@ Whichever action we chose (in this context, even *in*action is an action), it is
 Could this be optimized? Could a similar conflict be avoided in the future by choosing different interventions?
 This sometimes extends to trying to gauge actions five, ten or fifteen minutes in advance, based on careful reading of the room.
 
-Turns out; this is somewhat exhausting. Add to this personnell shortages; reports to write; food to prepare; meetings to attend; and coffee to drink[^7].
+Turns out; this is somewhat exhausting. Add to this personnel shortages; reports to write; food to prepare; meetings to attend; and coffee to drink[^7].
 
 ## And yet we persist
 So why keep it up?
@@ -69,7 +69,7 @@ To plant a seed and let it grow, as it were.
 I call bullshit — I do not believe the world can ever send as much back as is required of us to give.
 Although there **is** value in completing a difficult task, and doing so competently.
 A job well done, with a support network to back it up, both professionally and privately.
-In particular, giving room for self care, which [is explicitly brought up][self-care] in the aforementioned issue of Asterisk.
+In particular, giving room for self care, which [is explicitly brought up] [self-care] in the aforementioned issue of Asterisk.
 I routinely politely ignored my colleagues at break time — not because I didn't like them; I was simply peopled out, and needed to stare at my phone for 30 minutes.
 
 [^7]: Some days, there is not enough coffee.

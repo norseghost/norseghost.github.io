@@ -1,6 +1,6 @@
 ---
 title: "Sexism, my children, and I"
-date: "2019-01-14 01:34:30 +0100" 
+date: "2019-01-14 01:34:30 +0100"
 tags: [gender, sexism, toxic masculinity]
 ---
 
@@ -10,7 +10,7 @@ self-evidence of his wife or stepdaughter not knowing what they ‘invited’
 by displaying their feminine beauty; or my hasty correction of my son’s
 assumption that his female classmates could not be expected to play computer
 games well (there seems to be a certain toxic masculinity present in Hjalmar’s
-class; he would rather not have a [pink lunch box][sistema-pink] for fear of
+class; he would rather not have a [pink lunch box] [sistema-pink] for fear of
 teasing, a sentiment not shared by Storm).
 
 I do what I can, as a part time social justice warrior, to combat these trends.
@@ -32,12 +32,12 @@ colleagues would very much like to go from 30 hour weeks to 37, but are
 denied. This has knock-on effects throughout a career. The
 employer-subsidized pension scales along with wages earned, for instance,
 resulting in a very [substantial loss of post-retirement
-income][pensions].
+income] [pensions].
 
 Granted, I very often enjoy the benefits of this systemic inequality. I am
 white, male, and reasonably fit. This opens many doors for me. I have
 never had to fear unwanted advances, been wary of walking alone in a city
-at night, or fight to make my voice heard, or been subject to harrasment
+at night, or fight to make my voice heard, or been subject to harassment
 on social media.
 
 But the current system also hurts men. Both Hjalmar and I tear up at the
@@ -57,14 +57,14 @@ as [incels][incels] and [Red Pill][redpill] makes me shudder. Even outside
 these festering sores of society, [women][katrinegisinger] who
 [dare][gamergate] to [speak up][cortez] in public (often on
 female-centered issues, such as heightened pressure toward outward
-appearance) have to accept a certain base-level of harrasment as part of the
-cost. 
+appearance) have to accept a certain base-level of harassment as part of the
+cost.
 
 I will continue to do what I can, in my own small way, and hope I raise a cadre
 of future SJWs to carry the banner forward. I wish my sons and my daughters
 have equal opportunities in life, to laugh, to cry, to love, for bodily
 autonomy, and for respect of personal privacy. And I hope the societal
-discourse can acknowledge the issues. A [poll performed by Politiken in 2018][rightspoll]
+discourse can acknowledge the issues. A [poll performed by Politiken in 2018] [rightspoll]
 does not inspire confidence, however (paywall warning). How the gender equality project today can
 be seen as having gone too far is beyond me. The battle seems hardly begun
 some days.
