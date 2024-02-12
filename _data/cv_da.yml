@@ -18,11 +18,16 @@ skills:
   icon: users
 
 experience:
-- years: 2012--d.d.
+- years: 2023-d.d.
+  employer: Specialbørnehjemmene, afdeling krabben
+  job: Pædagog
+  city: Nørresundby
+  note: Arbejde med børn med tilknytningsvanskeligheder og svære adfærdsmæssige udfordringer. ADHD og autisme er almindelige diagnoser, og der ses ofte meget udadvent og voldsom adfærd.
+- years: 2012-2023
   employer: Skovbo, Sødisbakke
   job: Pædagog
   city: Mariager
-  note: Arbejder med voksne mennesker med autismespektrumforstyrrelser og lignende. Tjente som fungerende TR i 9 måneder, og har ivaretaget kontaktpædagog-opgaver, samt lavet dataudtræk fra vores journalsystem. Siden juni 2017 har jeg arbejdet som vågen nattevagt.
+  note: Arbejde med voksne mennesker med autismespektrumforstyrrelser og lignende. Tjente som fungerende TR i 9 måneder, og har ivaretaget kontaktpædagog-opgaver, samt lavet dataudtræk fra vores journalsystem. Siden juni 2017 har jeg arbejdet som vågen nattevagt.
 - years: 2003-2012
   job: Omsorgsmedarbejder
   city: Aalborg, Lillesand, med videre
@@ -30,7 +35,7 @@ experience:
   note: Jeg har arbejdet som ufaglært i handicapområdet, både som voksenven og tilkaldevikar. Jeg har også været tilkaldevíkar i ældreplejen.
 
 education:
-- years: 2020-2022
+- years: 2018-2020
   subject: Pædagogisk Sociologi
   degree: Kandidat
   institute: Århus Universitet
