@@ -1,7 +1,7 @@
 ---
 title: "Gatecrashing the NLP party"
 date: "2019-11-10 22:19:25 +0100"
-tags: [nlp, machine learning, sociology, personal, uni, rstats, python]
+tags: [nlp, machine learning, sociology, personal, university, rstats, python]
 ---
 
 OK, so I didn't really crash any gates.
@@ -51,7 +51,7 @@ In contrast, my school projects, both from my bachelor's in social education and
 Which reminds me of a somewhat disparaging note by a lecturer last semester, comparing the Department of Educational Studies at Århus University rather disparagingly to the kind of school I got my BA at.
 Make of that what you will.
 
-(There is, incidentally, a fair bit of literature on the attempted academization of the welfare professions in Denmark, and the relevance and success of this project.) 
+(There is, incidentally, a fair bit of literature on the attempted academization of the welfare professions in Denmark, and the relevance and success of this project.)
 
 ## Moving on
 
@@ -71,7 +71,7 @@ Wish me luck! And also, 48 hour days.
 I just might need both.
 
 [gillettead]: https://www.youtube.com/watch?v=koPmuEyP3a0
-[sentida-paper]: https://tidsskrift.dk/lwo/article/view/115711 
+[sentida-paper]: https://tidsskrift.dk/lwo/article/view/115711
 [sentida-github]: https://github.com/Guscode/Sentida
 [nlp_imc]: http://interactingminds.au.dk/events/single-events/artikel/nlp-workshop-imc-fall-2019/
 [imc]: http://interactingminds.au.dk/

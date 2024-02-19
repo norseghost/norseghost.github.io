@@ -1,6 +1,6 @@
 ---
 title: "Educational Sociology Postmortem"
-tags: uni stationery tech personal
+tags: university stationery tech personal
 ---
 
 > So... this entry has languished on my laptop sine since November or thereabouts.

@@ -1,6 +1,6 @@
 ---
 title: "Finding a Professional Identity"
-tags: [uni, personal, work, sociology, coaching, identity]
+tags: [university, personal, work, sociology, coaching, identity]
 ---
 
 Some months ago, I wrote about "developing my sociological identity".

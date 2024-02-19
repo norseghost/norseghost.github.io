@@ -1,7 +1,8 @@
 ---
 title: "My experiences with computational sociology (so far)"
 date: "2020-06-24 04:37:59 +0200"
-tags: sociolgy education
+tags: [sociology, education, computational sociology, machine learning,
+university]
 ---
 
 I have been spending my spring ploddingly pursuing my master's thesis.

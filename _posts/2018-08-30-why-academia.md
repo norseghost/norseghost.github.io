@@ -1,6 +1,6 @@
 ---
 title: "Why academia?"
-tags: [uni, personal, sociology]
+tags: [university, personal, sociology]
 ---
 
 So. **Why not** start a master's degree in educational sociology, six
