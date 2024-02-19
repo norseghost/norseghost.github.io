@@ -1,6 +1,6 @@
 ---
 title: A Nerd's Guide to writing Papers for Aarhus University
-tags: latex pandoc biblatex bibliography writing academia uni guide
+tags: latex pandoc biblatex bibliography writing academia university guide
 toc: true
 toc-sticky: true
 sidebar:
