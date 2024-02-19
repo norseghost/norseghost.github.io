@@ -24,4 +24,6 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
 end
 
+# gem "jemoji", "~> 0.13.0"
+
 gem "webrick", "~> 1.8"
