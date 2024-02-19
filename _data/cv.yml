@@ -2,5 +2,4 @@
 # Settings
 mainfont: Roboto
 fontsize: 8pt
-geometry: a4paper, left=35mm, right=35mm, top=17mm, bottom=17mm
 ---

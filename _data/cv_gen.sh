@@ -6,7 +6,7 @@ LANGS='da en'
 
     for LANG in $LANGS
     do
-        pandoc _config.yml _data/cv_${LANG}.yml _data/cv.yml \
+        pandoc -f markdown _config.yml _data/cv_${LANG}.yml _data/cv.yml \
         --template=_data/cv.tex \
         --pdf-engine=xelatex \
         -o assets/pdf/cv_${LANG}.pdf
