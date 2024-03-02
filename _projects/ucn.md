@@ -8,7 +8,7 @@ My specialization is in people with disabilities; and many of these assignments 
 
 Again; these are all in Danish
 
-## Recognitions inmportance in developing a sense of cohesion
+## The importance of recognition for developing a sense of cohesion
 Here, I compare and contrast Antonovsky's *sense of cohesion* with the concept of *recognition*, as described by Axel Honneth.
 These concepts are applied in a social health context.
 Can social workers do something to reduce class-based differences in health?

@@ -6,7 +6,7 @@ title_separator          : "-"
 name                     : "Martin Andersen"
 description              : "A collection of thoughts and reflections."
 url                      : https://martinadreasandersen.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : norseghost/norseghost.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 google_site_verification: "sDFCelf4cTZS9wPKmXVLT1SSr4OgwTOPnwG27nRHYog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -23,10 +23,10 @@ author:
     - Danmark
   name             : "Martin Andreas Andersen"
   avatar           : "/assets/images/bio-picture.jpg"
-  bio              : "Sociology student, with a background in work with adults with severe cognitive disabilities"
-  location         : "Skørping, DK"
+  bio              : "I've worked in the special education and social work field since I was 18, primarily with the cognitively disabled. I care deeply about the empowerment of those in need of care. I also am very interested in how the workers in the welfare state are positioned."
+  location         : "Staun, DK"
   email            : martin.andreas.andersen@gmail.com
-  phone: "+45 52 39 85 86"
+  phone            : "+45 52 39 85 86"
   uri              :
   home             : /martin/ # null (default), "absolute or relative url to link to author home"
   bitbucket        :
