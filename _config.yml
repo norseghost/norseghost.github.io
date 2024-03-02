@@ -170,9 +170,10 @@ compress_html:
     envs: development
 
 collections:
-  guides:
-    output: true
-    permalink: /:collection/:path/
+  # 2024-03-02 removed for lack of relevance
+  # guides:
+  #   output: true
+  #   permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -201,15 +202,15 @@ defaults:
       comments: # true
       share: false
       related: true
-  # _guides
-  - scope:
-      path: ""
-      type: guides
-    values:
-      layout: single
-      author_profile: true
-    sidebar:
-      nav: "guides"
+  # # _guides
+  # - scope:
+  #     path: ""
+  #     type: guides
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #   sidebar:
+  #     nav: "guides"
   # _guides
   - scope:
       path: ""
