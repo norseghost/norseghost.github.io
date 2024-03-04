@@ -15,6 +15,6 @@ projects:
   - title: "University College Nordjylland"
     url: /projects/ucn/
 
-guides:
-  - title: "A Nerd's Guide to Writing for AU"
-    url: /guides/a-nerds-guide-to-writing-papers-for-au/
+# guides:
+#   - title: "A Nerd's Guide to Writing for AU"
+#     url: /guides/a-nerds-guide-to-writing-papers-for-au/
