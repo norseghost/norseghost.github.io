@@ -132,6 +132,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
+  - jekyll-scholar
 #  - jekyll-archives
 
 # mimic GitHub Pages with --safe
