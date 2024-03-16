@@ -133,7 +133,7 @@ plugins:
   - jekyll-include-cache
   - jemoji
   - jekyll-scholar
-#  - jekyll-archives
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -143,12 +143,13 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
+  - jekyll-archives
 
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
 
 scholar:
@@ -175,7 +176,6 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
@@ -197,6 +197,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       read_time: true
       comments: # true
       share: false
@@ -212,6 +213,7 @@ defaults:
       comments: # true
       share: false
       related: true
+      classes: wide
   - scope:
       path: ""
       type: projects
