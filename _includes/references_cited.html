@@ -1,0 +1,18 @@
+{% comment %}
+Capture cites so i can check for a populated list later
+{% endcomment %}
+{% capture cites %}
+{% bibliography --cited_in_order %}
+{% endcapture %}
+{% comment %}
+The bibliography tag returns an empty list if there are no citations
+(nil would seem to make more sense, but hey)
+Thus, check for a list element in the returned bibliography to indicate
+I actually cited something in this article.
+{% endcomment %}
+{% if cites contains "</li>" %}
+<section class="footnotes reference">
+    <h1 id="">References</h1>
+    {{cites}}
+</section>
+{% endif %}

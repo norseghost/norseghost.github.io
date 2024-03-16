@@ -151,6 +151,19 @@ tag_archive:
   type: liquid
   path: /tags/
 
+scholar:
+  bibtex_filters:
+    - smallcaps
+    - superscript
+    - italics
+    - latex
+  bibliography_template: bib_entry
+  bibliography_list_tag: ol
+  bibliography_list_attributes:
+    role: doc-bibliography
+  bibliography_item_attributes:
+    role: doc-biblioentry
+
 jekyll-archives:
   enabled:
     - categories
