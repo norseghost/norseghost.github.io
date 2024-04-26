@@ -80,4 +80,4 @@ It is also okay to tell people who count on and depend on you this.
 
 You're not a superhero, and you're not playing one on TV.
 
-![The author and his dog]({{ site.url }}{{ site.baseurl}}/assets/images/2024-04-martin-and-rolf.jpg)
+![The author and his dog]({{ site.url }}{{ site.baseurl}}assets/images/2024-04-martin-and-rolf.jpg)
