@@ -29,5 +29,6 @@ end
 
 # gem "jemoji", "~> 0.13.0"
 
+gem 'csv'
 gem 'json'
 gem 'webrick', '~> 1.8'
