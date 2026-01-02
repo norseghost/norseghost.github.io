@@ -1,12 +1,15 @@
 source 'https://rubygems.org'
 
-# Pin Nokogiri to 1.15.x as 1.16+ requires Ruby 3.0
+# Pin Nokogiri to 1.15.x to stay compatible with Ruby 2.7
 gem 'nokogiri', '~> 1.15.0'
+
+# Pin jekyll-scholar to 5.x to work with Jekyll 3.9 (required by github-pages)
+gem 'jekyll-scholar', '~> 5.16'
 
 # Minimal Mistakes Theme
 gem 'minimal-mistakes-jekyll'
 
-# GitHub Pages environment
+# GitHub Pages environment (This forces Jekyll 3.9.x)
 gem 'github-pages', group: :jekyll_plugins
 
 # Plugins
@@ -15,12 +18,9 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-include-cache'
   gem 'jekyll-paginate-v2'
-  # Pinning scholar to 6.x for better Ruby 2.7 compatibility
-  gem 'jekyll-scholar', '~> 6.0'
   gem 'jemoji'
 end
 
-# Core dependencies and compatibility gems
 gem "tzinfo-data"
 gem 'bigdecimal'
 gem 'csv'
