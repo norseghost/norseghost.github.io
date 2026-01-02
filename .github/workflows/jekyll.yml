@@ -20,12 +20,9 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7' 
-          bundler-cache: false # This automatically runs 'bundle install' and handles caching
-
-      - name: Install jekyll and dependencies
-        # We use 'bundle exec' to ensure the Jekyll version in your Gemfile is used
-        run: bundle install
+          ruby-version: '2.7'      
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
