@@ -1,34 +1,28 @@
 source 'https://rubygems.org'
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-# gem "jekyll", "~> 4"
+# Pin Nokogiri to 1.15.x as 1.16+ requires Ruby 3.0
+gem 'nokogiri', '~> 1.15.0'
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+# Minimal Mistakes Theme
 gem 'minimal-mistakes-jekyll'
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# GitHub Pages environment
 gem 'github-pages', group: :jekyll_plugins
 
-# If you have any plugins, put them here!
+# Plugins
 group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-feed'
   gem 'jekyll-include-cache'
   gem 'jekyll-paginate-v2'
-  gem 'jekyll-scholar'
+  # Pinning scholar to 6.x for better Ruby 2.7 compatibility
+  gem 'jekyll-scholar', '~> 6.0'
   gem 'jemoji'
 end
 
-# gem "jemoji", "~> 0.13.0"
-
+# Core dependencies and compatibility gems
+gem "tzinfo-data", platforms: [:windows, :jruby]
+gem 'bigdecimal'
 gem 'csv'
 gem 'json'
 gem 'webrick', '~> 1.8'
