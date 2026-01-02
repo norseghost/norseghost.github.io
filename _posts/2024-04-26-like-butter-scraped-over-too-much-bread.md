@@ -2,7 +2,7 @@
 title: "Like Butter Scraped Over Too Much Bread"
 date: 2024-04-26
 header:
-  header: "/assets/images/2024-04-rolf-banner.jpg"
+  image: /assets/images/2024-04-rolf-banner.jpg
 categories: social work, emotional labor
 tags: social-work, mental-health
 ---

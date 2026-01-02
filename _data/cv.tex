@@ -7,7 +7,7 @@
 % LAYOUT
 %--------------------------------
 % Margins
-\usepackage{geometry} 
+\usepackage{geometry}
 \geometry{$geometry$}
 
 % Do not indent paragraphs
@@ -19,7 +19,7 @@
 % \raggedcolumns
 
 % Uncomment to suppress page numbers
-% \pagenumbering{gobble}
+\pagenumbering{gobble}
 
 % LANGUAGE
 %--------------------------------
@@ -31,7 +31,7 @@
 
 % TYPOGRAPHY
 %--------------------------------
-\usepackage{fontspec} 
+\usepackage{fontspec}
 \usepackage{xunicode}
 \usepackage{xltxtra}
 % converts LaTeX specials (quotes, dashes etc.) to Unicode
@@ -50,11 +50,11 @@
 
 % HEADINGS
 %--------------------------------
-\usepackage{sectsty} 
-\usepackage[normalem]{ulem} 
-\sectionfont{\rmfamily\mdseries\large} 
-\subsectionfont{\rmfamily\mdseries\scshape\normalsize} 
-\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} 
+\usepackage{sectsty}
+\usepackage[normalem]{ulem}
+\sectionfont{\rmfamily\mdseries\large}
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize}
+\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
 
 % PDF SETUP
 %--------------------------------
@@ -111,6 +111,23 @@ $endif$
 
 \vfill
 
+\section*{$title_experience$}
+\noindent
+$for(experience)$
+\begin{multicols}{2}
+\note{$experience.years$}\textsc{$experience.employer$}\\
+\emph{$experience.job$}\\
+$experience.city$\\[.2cm]
+$if(experience.note)$
+\vfill
+\columnbreak
+$experience.note$
+$endif$
+\end{multicols}
+$endfor$
+
+
+\pagebreak
 $if(education)$
 \section*{$title_education$}
 \noindent
@@ -129,22 +146,6 @@ $endif$
 $endfor$
 $endif$
 \vfill
-
-
-\section*{$title_experience$}
-\noindent
-$for(experience)$
-\begin{multicols}{2}
-\note{$experience.years$}\textsc{$experience.employer$}\\
-\emph{$experience.job$}\\
-$experience.city$\\[.2cm]
-$if(experience.note)$
-\vfill
-\columnbreak
-$experience.note$
-$endif$
-\end{multicols}
-$endfor$
 
 
 \vfill

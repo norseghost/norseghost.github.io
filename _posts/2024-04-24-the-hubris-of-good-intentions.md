@@ -6,12 +6,7 @@ categories: social work, power dynamics
 tags: social-work power care-work emotional-labor
 ---
 
-*I started writing this nearly three years ago, and it has taken me a while to decide whether to post it.
-I freely admit that it is not without trepidation I am publishing this.
-Not only is it somewhat unflattering personally, it will unavoidably reflect poorly on a past employer.
-In those intervening three years I have hope to have gained perspective and maturity.
-This is intended as a reflection on the cultural justifications for abuse of power, and how the cultural manifests in the personal.
-*
+*I started writing this nearly three years ago, and it has taken me a while to decide whether to post it. I freely admit that it is not without trepidation I am publishing this. Not only is it somewhat unflattering personally, it will unavoidably reflect poorly on a past employer. In those intervening three years I have hope to have gained perspective and maturity. This is intended as a reflection on the cultural justifications for abuse of power, and how the cultural manifests in the personal.*
 
 # Or, the misapplication of power in care-work
 
@@ -108,4 +103,4 @@ We can at least play with the cards face up.
 
 -------
 
-*This concludes my thoughts from (mostly) three years ago. I have since changed my workplace. The balancing act of navigating my professional intention with the interests and desires of those in my charge persists, however. I hope to demonstrate a humility and decency through my work, and be an example for others to follow.*
+*This concludes my thoughts from (mostly) three years ago. I have since changed my place of employment. The balancing act of navigating my professional intention with the interests and desires of those in my charge persists, however. I aspire to continually demonstrate humility and decency through my work, and be an example for others to follow.*
