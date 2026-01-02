@@ -23,7 +23,9 @@ jobs:
           ruby-version: '2.7'      
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
-        
+        # ADD THIS STEP HERE
+      - name: Upgrade RubyGems
+        run: gem update --system 3.3.22 # Specifically upgrade to a version compatible with 2.7
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
