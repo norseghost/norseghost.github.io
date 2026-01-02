@@ -21,7 +21,7 @@ group :jekyll_plugins do
 end
 
 # Core dependencies and compatibility gems
-gem "tzinfo-data", platforms: [:windows, :jruby]
+gem "tzinfo-data"
 gem 'bigdecimal'
 gem 'csv'
 gem 'json'
