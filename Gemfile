@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+# 1. Pin URI to the version bundled with Ruby 2.7
+gem 'uri', '0.10.0.2'
 # Pin Nokogiri to 1.15.x to stay compatible with Ruby 2.7
 gem 'nokogiri', '~> 1.15.0'
 
