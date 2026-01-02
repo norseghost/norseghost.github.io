@@ -18,13 +18,13 @@ atom_feed:
 # Site Author
 author:
   address:
-    - Staunvej 16
-    - 9240 Nibe
+    - Dionevej 67
+    - 9210 Aalborg SØ
     - Danmark
   name             : "Martin Andreas Andersen"
   avatar           : "/assets/images/bio-picture.jpg"
   bio              : "I've worked in the special education and social work field since I was 18, primarily with the cognitively disabled. I care deeply about the empowerment of those in need of care. I also am very interested in how the workers in the welfare state are positioned."
-  location         : "Staun, DK"
+  location         : "Aalborg, DK"
   email            : martin.andreas.andersen@gmail.com
   phone            : "+45 52 39 85 86"
   uri              :
